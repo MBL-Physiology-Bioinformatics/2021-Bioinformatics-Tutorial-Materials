@@ -1,0 +1,13 @@
+{
+    "salmon_version": "1.5.0",
+    "index": "../salmon-output/index_salmon/salmon_index_ensembl",
+    "libType": "ISR",
+    "seqBias": [],
+    "gcBias": [],
+    "mates1": "../../complete-sequence-data/larval-day-5/ERR1442771/ERR1442771_1.fastq.gz",
+    "mates2": "../../complete-sequence-data/larval-day-5/ERR1442771/ERR1442771_2.fastq.gz",
+    "threads": "8",
+    "validateMappings": [],
+    "output": "../salmon-output/salmon_larval-day-5/salmon_quant_ERR1442771",
+    "auxDir": "aux_info"
+}

@@ -1,0 +1,13 @@
+{
+    "salmon_version": "1.5.0",
+    "index": "../salmon-output/index_salmon/salmon_index_ensembl",
+    "libType": "ISR",
+    "seqBias": [],
+    "gcBias": [],
+    "mates1": "../../complete-sequence-data/blastula-128-cell/ERR1442811/ERR1442811_1.fastq.gz",
+    "mates2": "../../complete-sequence-data/blastula-128-cell/ERR1442811/ERR1442811_2.fastq.gz",
+    "threads": "8",
+    "validateMappings": [],
+    "output": "../salmon-output/salmon_blastula-128-cell/salmon_quant_ERR1442811",
+    "auxDir": "aux_info"
+}

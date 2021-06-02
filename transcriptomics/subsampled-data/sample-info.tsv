@@ -1,0 +1,11 @@
+sample	public_name	accession_number	condition	stage	stageName	sampleName	sequencing
+zmp_ph129_B	ZMP_phenotype_129_B	ERS1079221	ZFS:0000008	Blastula:128-cell	128-cell	128-cell-1	RNASeq
+zmp_ph129_C	ZMP_phenotype_129_C	ERS1079222	ZFS:0000008	Blastula:128-cell	128-cell	128-cell-2	RNASeq
+zmp_ph129_D	ZMP_phenotype_129_D	ERS1079223	ZFS:0000008	Blastula:128-cell	128-cell	128-cell-3	RNASeq
+zmp_ph129_E	ZMP_phenotype_129_E	ERS1079224	ZFS:0000008	Blastula:128-cell	128-cell	128-cell-4	RNASeq
+zmp_ph129_G	ZMP_phenotype_129_G	ERS1079225	ZFS:0000008	Blastula:128-cell	128-cell	128-cell-5	RNASeq
+zmp_ph121_A	ZMP_phenotype_121_A	ERS1079171	ZFS:0000036	Larval:Day-4	Day-4	Day-4-1	RNASeq
+zmp_ph121_B	ZMP_phenotype_121_B	ERS1079172	ZFS:0000036	Larval:Day-4	Day-4	Day-4-2	RNASeq
+zmp_ph121_C	ZMP_phenotype_121_C	ERS1079174	ZFS:0000036	Larval:Day-4	Day-4	Day-4-3	RNASeq
+zmp_ph121_D	ZMP_phenotype_121_D	ERS1079175	ZFS:0000036	Larval:Day-4	Day-4	Day-4-4	RNASeq
+zmp_ph121_E	ZMP_phenotype_121_E	ERS1079176	ZFS:0000036	Larval:Day-4	Day-4	Day-4-5	RNASeq

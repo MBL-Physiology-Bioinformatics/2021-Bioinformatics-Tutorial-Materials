@@ -1,0 +1,77 @@
+configfile: "config.yaml"
+
+import io
+import os
+from os import listdir
+from os.path import isfile, join
+import sys
+import pandas as pd
+import numpy as np
+import pathlib
+
+def unpack_list(list_in):
+    return_list = []
+    for l in list_in:
+        return_list.extend(l)
+    return return_list 
+
+lifestages_stub = os.path.join("..","..","complete-sequence-data")
+lifestage_list = ["blastula-128-cell","larval-day-5"]
+lifestages_folders = [os.path.join(lifestages_stub, curr) for curr in lifestage_list]
+folders_all = [[fold for fold in os.listdir(curr) if os.path.isdir(os.path.join(curr,fold))] for curr in lifestages_folders]
+lifestage_unpack = [[curr.split("/")[-1]] * len([fold for fold in os.listdir(curr) if os.path.isdir(os.path.join(curr,fold))]) for curr in lifestages_folders]
+OUTPUTDIR = os.path.join("..","salmon-output")
+
+lifestage_unpack = unpack_list(lifestage_unpack)
+folders_all = unpack_list(folders_all)
+print(lifestage_unpack,flush=True)
+
+rule all:
+    input:
+        salmon_db = os.path.join(OUTPUTDIR,"db_salmon_done.txt"),
+        salmon_quants = expand(os.path.join(OUTPUTDIR, "salmon_{lifestage}", "salmon_quant_{folder}", "quant.sf"), zip,
+                               lifestage = lifestage_unpack, folder = folders_all)
+
+rule salmon_db:
+    input:
+        os.path.join("..","..","complete-sequence-data","Danio_rerio.GRCz10.cds.all.fa.gz")
+    output:
+        os.path.join(OUTPUTDIR,"db_salmon_done.txt")
+    conda:
+        "salmon-env.yaml"
+    params:
+        libtype = "ISR",
+        indexname = os.path.join(OUTPUTDIR, "index_salmon", "salmon_index_ensembl"),
+        kval = 31
+    log:
+        err = os.path.join("logs","salmon","index_salmon_err.log"),
+        out = os.path.join("logs","salmon","index_salmon_out.log")
+    shell:
+        '''
+        salmon index -t {input} -i {params.indexname} -k {params.kval} --threads 4 2> {log.err} 1> {log.out}
+        touch {output}
+        '''
+                
+rule salmon_rule:
+    input: 
+        os.path.join(OUTPUTDIR,"db_salmon_done.txt"),
+        left = os.path.join("..","..","complete-sequence-data","{lifestage}","{folder}","{folder}_1.fastq.gz"),
+        right = os.path.join("..","..","complete-sequence-data","{lifestage}","{folder}","{folder}_2.fastq.gz")
+    output:
+        os.path.join(OUTPUTDIR, "salmon_{lifestage}", "salmon_quant_{folder}", "quant.sf")
+    params:
+        libtype = "ISR",
+        indexname = os.path.join(OUTPUTDIR, "index_salmon", "salmon_index_ensembl"),
+        kval = 31,
+        outdir = os.path.join(OUTPUTDIR, "salmon_{lifestage}", "salmon_quant_{folder}")
+    log:
+        err = os.path.join("logs","salmon","salmon_{lifestage}_{folder}_err.log"),
+        out = os.path.join("logs","salmon","salmon_{lifestage}_{folder}_out.log")
+    conda: "salmon-env.yaml"
+    shell:
+        """
+        salmon quant -i {params.indexname} -l {params.libtype} \
+         --seqBias --gcBias -1 {input.left} \
+         -2 {input.right} \
+         -p 8 --validateMappings -o {params.outdir} 1> {log.out} 2> {log.err}
+        """

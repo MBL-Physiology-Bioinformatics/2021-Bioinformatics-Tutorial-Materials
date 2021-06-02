@@ -1,0 +1,22 @@
+{
+    "read_files": "[ ../../complete-sequence-data/blastula-128-cell/ERR1442811/ERR1442811_1.fastq.gz, ../../complete-sequence-data/blastula-128-cell/ERR1442811/ERR1442811_2.fastq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 940366,
+    "num_assigned_fragments": 940366,
+    "num_frags_with_concordant_consistent_mappings": 835323,
+    "num_frags_with_inconsistent_or_orphan_mappings": 105362,
+    "strand_mapping_bias": 0.0,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 0,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 835323,
+    "SF": 63790,
+    "SR": 41572,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

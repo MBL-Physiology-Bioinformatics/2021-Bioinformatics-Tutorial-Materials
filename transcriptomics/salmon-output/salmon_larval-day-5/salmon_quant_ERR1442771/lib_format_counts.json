@@ -1,0 +1,22 @@
+{
+    "read_files": "[ ../../complete-sequence-data/larval-day-5/ERR1442771/ERR1442771_1.fastq.gz, ../../complete-sequence-data/larval-day-5/ERR1442771/ERR1442771_2.fastq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 739670,
+    "num_assigned_fragments": 739670,
+    "num_frags_with_concordant_consistent_mappings": 645466,
+    "num_frags_with_inconsistent_or_orphan_mappings": 94800,
+    "strand_mapping_bias": 0.0,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 0,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 645466,
+    "SF": 62320,
+    "SR": 32480,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
