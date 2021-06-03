@@ -2,10 +2,10 @@
 
 ## Welcome to the `Salmon` and `DESeq2` quantification + differential expression module!
 
-To get started with this dataset, first clone the repository, which will give you access to everything you need to complete this part of the course.
+To get started with this dataset navigate to the folder where we were working in your JetStream instance and update the github repo (just in case we made any changes):  
 
 ```
-git clone https://github.com/AlexanderLabWHOI/2021-physiology-subsampling
+git pull
 ```
 
 Inside of this repository, you'll find a few relevant subfolders:
