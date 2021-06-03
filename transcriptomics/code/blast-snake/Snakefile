@@ -1,0 +1,63 @@
+configfile: "config.yaml"
+
+import io
+import os
+from os import listdir
+from os.path import isfile, join
+import sys
+import pandas as pd
+import numpy as np
+import pathlib
+
+def unpack_list(list_in):
+    return_list = []
+    for l in list_in:
+        return_list.extend(l)
+    return return_list 
+    
+OUTPUTDIR = config["outputdir"]
+
+rule all:
+    input:
+        blast_db = os.path.join(OUTPUTDIR,"zebrafish_db.fasta")
+
+rule blast_db:
+    input:
+        os.path.join("..","..","complete-sequence-data","Danio_rerio.GRCz11.pep.all.fa.gz")
+    output:
+        os.path.join(OUTPUTDIR,"zebrafish_db.fasta")
+    conda:
+        "blast-env.yaml"
+    params:
+        extra = ""
+    log:
+        err = os.path.join("logs","salmon","index_salmon_err.log"),
+        out = os.path.join("logs","salmon","index_salmon_out.log")
+    shell:
+        '''
+        makeblastdb -in {input} -out {output} -dbtype nucl -parse_seqids
+        '''
+                
+rule blast_compare:
+    input: 
+        os.path.join(OUTPUTDIR,"db_salmon_done.txt"),
+        left = os.path.join("..","..","complete-sequence-data","{lifestage}","{folder}","{folder}_1.fastq.gz"),
+        right = os.path.join("..","..","complete-sequence-data","{lifestage}","{folder}","{folder}_2.fastq.gz")
+    output:
+        os.path.join(OUTPUTDIR, "salmon_{lifestage}", "salmon_quant_{folder}", "quant.sf")
+    params:
+        libtype = "ISR",
+        indexname = os.path.join(OUTPUTDIR, "index_salmon", "salmon_index_ensembl"),
+        kval = 31,
+        outdir = os.path.join(OUTPUTDIR, "salmon_{lifestage}", "salmon_quant_{folder}")
+    log:
+        err = os.path.join("logs","salmon","salmon_{lifestage}_{folder}_err.log"),
+        out = os.path.join("logs","salmon","salmon_{lifestage}_{folder}_out.log")
+    conda: "salmon-env.yaml"
+    shell:
+        """
+        salmon quant -i {params.indexname} -l {params.libtype} \
+         --seqBias --gcBias -1 {input.left} \
+         -2 {input.right} \
+         -p 8 --validateMappings -o {params.outdir} 1> {log.out} 2> {log.err}
+        """
