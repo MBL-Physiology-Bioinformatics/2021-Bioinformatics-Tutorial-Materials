@@ -28,7 +28,7 @@ The machines take a bit to start up so while they start up we are going to do so
 Once your allocation starts up we will be working within the Web Shell. To open up the terminal click on `>_Open Web Shell`:
 
 
-![Alt text](bash- genomics/images/js-openws.png)
+![Alt text](bash-genomics/images/js-openws.png)
 
 Note, if you are already comfortable with command line and want to work locally within your own terminal you may do so by setting up an ssh key. You can ask an instructor how to do that after today's class.
 
