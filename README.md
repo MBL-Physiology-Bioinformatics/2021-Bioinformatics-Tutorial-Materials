@@ -54,6 +54,40 @@ source /etc/bashrc
 
 Now we are ready to get learning BASH! We will be working off of the [Introduction to Command Line for Genomics](https://datacarpentry.org/shell-genomics/) from Data Carpentry. Feel free to follow along there as well!
 
+## Day 2 set up!
+
+Today, we are going to be installing a few programs with `anaconda` ([`conda`](https://astrobiomike.github.io/unix/conda-intro)). First off, we need to get things set up within our terminal. 
+
+First, we will run some things specific to this particular web instance: 
+
+```
+sudo su -
+source /etc/bashrc
+```
+
+Then, we are going to iniate our `conda` to work with `bash`:
+
+```
+conda init bash
+```
+
+Now, we are going to re-start the shell (just refresh the broswer window) or re start your terminal connection. 
+
+We are now ready to get going! Navigate to the `2021-Bioinformatics-Tutorial-Materials/` folder where we were working yesterday. We have made some updates to the materials today (including what you are reading now). We are going to use `git` to update our files. `git` is terribly useful for things like this. If you want to know more about how to use git for science and collaboration I encourage you to check out [this tutorial](https://github.com/swcarpentry). 
+
+To update the tutorial materials type:
+
+```
+git pull 
+```
+
+Now, finally, we are going to run an install script in "the background". Let's take a look at what is in `setup-shell.sh`. 
+
+```
+bash setup-shell.sh > conda.log &
+```
+
+And! Onward and upward! This will run in the background while we do other things in our terminal :) 
 
 ## End of the day
 
