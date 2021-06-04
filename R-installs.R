@@ -1,3 +1,4 @@
+options(warn=-1)
 install.packages("IRkernel",repos = "http://cran.us.r-project.org")
 library(IRkernel)
 IRkernel::installspec()
