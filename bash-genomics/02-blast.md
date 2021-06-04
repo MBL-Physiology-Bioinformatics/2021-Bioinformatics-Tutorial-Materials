@@ -17,9 +17,8 @@ https://en.wikipedia.org/wiki/Substitution_matrix
 https://www.ncbi.nlm.nih.gov/blast/html/sub_matrix.html
 
 #### Other BLAST tools
-
 Other  BLAST tools include `psiblast`, which produces an initial search and tweaks the scoring rules on the basis of the results; these tweaked scoring rules are used in a second search, generally finding even more matches. This process is repeated as many times as the user wishes, with more dissimilar matches being revealed in later iterations. The `deltablast` program considers a precomputed database of scoring rules for different types of commonly found (conserved) sequences. Finally, `rpsblast` searches for sequence matches against sets of profiles, each representing a collection of sequences.
-----------
+
 ## Running web-based BLAST searches
 
 Go to [Blast](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
