@@ -2,10 +2,10 @@
 
 ## Welcome to the `Salmon` and `DESeq2` quantification + differential expression module!
 
-To get started with this dataset, first clone the repository, which will give you access to everything you need to complete this part of the course.
+To get started with this dataset navigate to the folder where we were working in your JetStream instance and update the github repo (just in case we made any changes):  
 
 ```
-git clone https://github.com/AlexanderLabWHOI/2021-physiology-subsampling
+git pull
 ```
 
 Inside of this repository, you'll find a few relevant subfolders:
@@ -23,7 +23,7 @@ Inside of the `complete-sequence-data` folder is the `fasta` file that you will 
 
 ## Introduction to the dataset
 
-![Zebrafish](/images/lax_30860_elife-30860-fig1-v1.jpg)
+![Zebrafish](images/lax_30860_elife-30860-fig1-v1.jpg)
 
 This is a time series of mRNA sequencing data from zebrafish embryonic development. The really neat thing about this dataset is that, in addition to a number of mRNA transcriptome sequencing files, the authors have taken the time to set their dataset up on an interactive web viewer. You can find that [here](https://www.ebi.ac.uk/gxa/experiments/E-ERAD-475/Results) - _after_ we do some initial exploration of the transcriptome dataset. Among other things, you can look at how the expression of a particular putative gene changes over time, and compare that gene to similarly expressed genes. This is a cool way to be able to visualize particular subsets of the data, once we use some scripts to get a more global feel for the data and to identify some of those important genes ourselves. 
 

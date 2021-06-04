@@ -1,6 +1,6 @@
 # 2021 MBL Physiology Bioinformatics Bootcamp
 
-Welcome to the boiinformatics bootcamp!
+Welcome to the bioinformatics bootcamp!
 
 For this course we will be using the XSEDE platform [JetStream](https://use.jetstream-cloud.org/application/projects). JetStream allows us all to be using the same "computer" and gives us more storage space and memory to carry out some bioinformatic commands.
 
