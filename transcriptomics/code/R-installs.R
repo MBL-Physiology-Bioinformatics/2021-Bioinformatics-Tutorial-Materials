@@ -1,0 +1,7 @@
+install.packages("IRkernel",repos = "http://cran.us.r-project.org")
+library(IRkernel)
+IRkernel::installspec()
+library(BiocManager)
+BiocManager::install("DESeq2",update=TRUE,ask=FALSE)
+install.packages("pacman",repos = "http://cran.us.r-project.org")
+quit()

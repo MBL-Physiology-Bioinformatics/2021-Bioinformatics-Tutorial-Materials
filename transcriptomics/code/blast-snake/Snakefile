@@ -35,7 +35,7 @@ rule blast_db:
         out = os.path.join("logs","salmon","index_salmon_out.log")
     shell:
         '''
-        makeblastdb -in {input} -out {output} -dbtype nucl -parse_seqids
+        makeblastdb -in {input} -out {output} -dbtype prot -parse_seqids
         '''
                 
 rule blast_compare:
