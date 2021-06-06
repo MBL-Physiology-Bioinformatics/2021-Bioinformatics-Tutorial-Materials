@@ -1,0 +1,498 @@
+DATASET_DOMAINS
+SEPARATOR TAB
+DATASET_LABEL	Domains
+COLOR	#ffffff
+LEGEND_TITLE	Domains
+LEGEND_SHAPES	RE	HH	HV	EL	DI	TR	TL	PL	PR	PU	PD	OC	GP	RE	HH	HV	EL	DI	TR	TL	PL	PR	PU	PD
+LEGEND_COLORS	#a6cee3	#1f78b4	#b2df8a	#33a02c	#fb9a99	#e31a1c	#fdbf6f	#ff7f00	#cab2d6	#6a3d9a	#ffff99	#b15928	#a6cee3	#1f78b4	#b2df8a	#33a02c	#fb9a99	#e31a1c	#fdbf6f	#ff7f00	#cab2d6	#6a3d9a	#ffff99	#b15928
+LEGEND_LABELS	Caspase domain	WW domain	Caspase recruitment domain	TerD domain	CUE domain	zinc-ribbon domain	C2 domain	LSD1 zinc finger	EF-hand domain pair	Integrase core domain	Integrase zinc binding domain	Guanylate-binding protein, N-terminal domain	Guanylate-binding protein, C-terminal domain	Ribosomal protein S24e	Glycosyl transferases group 1	OTU-like cysteine protease	Death effector domain	C-terminal of Roc, COR, domain	Death domain	Zn-finger in Ran binding protein and others	EF hand	CENP-A nucleosome associated complex (NAC) subunit	EF-hand domain	Apolipoprotein L
+MARGIN	25
+SHOW_DOMAIN_LABELS	0
+DATA
+EP00002_Diphylleia_rotans|TRINITY_DN325_c1_g2_i1.p1	899	RE|599|895|#a6cee3|Caspase domain
+EP00004_Rigifila_ramosa|TRINITY_DN1364_c0_g1_i1.p1	521	RE|130|419|#a6cee3|Caspase domain	TL|4|92|#fdbf6f|C2 domain
+EP00005_Dracoamoeba_jomungandri|CAMPEP_0174260812	488	RE|182|474|#a6cee3|Caspase domain
+EP00006_Acanthamoeba_castellanii|ELR16587	519	RE|152|510|#a6cee3|Caspase domain
+EP00007_Cunea_sp_BSH-02190019|CAMPEP_0174236186	527	RE|238|515|#a6cee3|Caspase domain
+EP00008_Paramoeba_atlantica|CAMPEP_0201488712	487	RE|218|477|#a6cee3|Caspase domain
+EP00009_Paramoeba_aestuarina|CAMPEP_0201517662	355	RE|39|340|#a6cee3|Caspase domain
+EP00010_Vexillifera_sp_DIVA3-564-2|CAMPEP_0201544448	483	RE|199|471|#a6cee3|Caspase domain
+EP00011_Vannella_sp_DIVA3-517-6-12|CAMPEP_0114616618	364	RE|64|351|#a6cee3|Caspase domain
+EP00012_Vannella_robusta|CAMPEP_0206195420	360	RE|64|351|#a6cee3|Caspase domain
+EP00013_Stygamoeba_regulata|CAMPEP_0177643498	292	RE|10|280|#a6cee3|Caspase domain
+EP00020_Sapocribrum_chincoteaguense|CAMPEP_0170740454	417	RE|122|410|#a6cee3|Caspase domain
+EP00023_Dictyostelium_discoideum|XP_629249.1	406	RE|189|378|#a6cee3|Caspase domain
+EP00026_Physarum_polycephalum|Phypoly_transcript_07036.p1	351	RE|99|339|#a6cee3|Caspase domain
+EP00027_Filamoeba_nolandi|CAMPEP_0168551108	367	RE|125|367|#a6cee3|Caspase domain
+EP00028_Trichosphaerium_sp_Am-I-7-wt|CAMPEP_0168515326	470	RE|167|463|#a6cee3|Caspase domain
+EP00029_Vermamoeba_vermiformis|TRINITY_DN5192_c0_g1_i1.p1	384	RE|121|376|#a6cee3|Caspase domain
+EP00035_Acanthoeca_spectabilis|m.68686	380	RE|71|368|#a6cee3|Caspase domain
+EP00036_Acanthoeca_sp_10tr|CAMPEP_0206300132	536	RE|177|371|#a6cee3|Caspase domain
+EP00037_Helgoeca_nana|m.142426	386	RE|71|374|#a6cee3|Caspase domain
+EP00038_Savillea_parva|m.159159	420	RE|101|407|#a6cee3|Caspase domain
+EP00039_Didymoeca_costata|m.128020	466	RE|173|458|#a6cee3|Caspase domain
+EP00040_Diaphanoeca_grandis|m.105172	428	RE|100|385|#a6cee3|Caspase domain
+EP00043_Microstomoeca_roanoka|m.55394	497	RE|205|489|#a6cee3|Caspase domain
+EP00044_Salpingoeca_rosetta|XP_004990821.1	404	RE|108|396|#a6cee3|Caspase domain
+EP00045_Choanoeca_perplexa|m.114164	450	RE|165|443|#a6cee3|Caspase domain
+EP00046_Monosiga_brevicollis|XP_001746462.1	573	RE|134|399|#a6cee3|Caspase domain	RE|473|549|#1f78b4|Ribosomal protein S24e	PL|6|30|#ff7f00|LSD1 zinc finger
+EP00047_Mylnosiga_fluctuans|m.27625	459	RE|165|448|#a6cee3|Caspase domain
+EP00048_Salpingoeca_helianthica|m.15148	495	RE|191|428|#a6cee3|Caspase domain
+EP00049_Salpingoeca_infusionum|m.6254	429	RE|138|419|#a6cee3|Caspase domain
+EP00050_Salpingoeca_kvevrii|m.10674	362	RE|63|350|#a6cee3|Caspase domain
+EP00051_Salpingoeca_urceolata|m.230983	591	RE|291|580|#a6cee3|Caspase domain
+EP00052_Salpingoeca_macrocollata|m.152544	365	RE|67|353|#a6cee3|Caspase domain
+EP00053_Salpingoeca_punica|m.69260	383	RE|77|371|#a6cee3|Caspase domain
+EP00054_Salpingoeca_dolichothecata|m.88904	446	RE|155|434|#a6cee3|Caspase domain
+EP00055_Hartaetosiga_balthica|m.34585	634	RE|346|588|#a6cee3|Caspase domain
+EP00056_Hartaetosiga_gracilis|m.180186	625	RE|335|577|#a6cee3|Caspase domain
+EP00057_Strongylocentrotus_purpuratus|XP_011661359.1	530	HV|7|87|#b2df8a|Caspase recruitment domain	RE|305|524|#a6cee3|Caspase domain	RE|165|204|#a6cee3|Caspase domain	RE|211|304|#a6cee3|Caspase domain
+EP00058_Branchiostoma_floridae|XP_002608841.1	7154	HH|5372|5543|#b2df8a|Glycosyl transferases group 1	HH|4129|4308|#b2df8a|Glycosyl transferases group 1	HV|5043|5161|#33a02c|OTU-like cysteine protease	HV|2128|2229|#33a02c|OTU-like cysteine protease	HV|6702|6801|#33a02c|OTU-like cysteine protease	HV|426|525|#33a02c|OTU-like cysteine protease	RE|5815|5941|#a6cee3|Caspase domain	RE|3224|3453|#a6cee3|Caspase domain	RE|2316|2475|#a6cee3|Caspase domain	EL|5596|5675|#fb9a99|Death effector domain	EL|6937|7016|#fb9a99|Death effector domain	EL|7|85|#fb9a99|Death effector domain	EL|3521|3598|#fb9a99|Death effector domain	DI|2798|3011|#e31a1c|C-terminal of Roc, COR, domain	DI|4693|4906|#e31a1c|C-terminal of Roc, COR, domain	DI|6291|6501|#e31a1c|C-terminal of Roc, COR, domain	TR|5695|5762|#fdbf6f|Death domain	TR|1960|2028|#fdbf6f|Death domain	TR|1804|1879|#fdbf6f|Death domain	TR|3656|3728|#fdbf6f|Death domain	TR|7070|7146|#fdbf6f|Death domain
+EP00059_Ciona_intestinalis|XP_002127732.1	317	RE|66|313|#a6cee3|Caspase domain
+EP00060_Petromyzon_marinus|ENSPMAP00000005814.1	250	RE|15|249|#a6cee3|Caspase domain
+EP00061_Rhincodon_typus|g45576.t1	445	RE|5|235|#a6cee3|Caspase domain
+EP00062_Callorhinchus_milii|gi|632988444|ref|XP_007883114.1|	313	RE|75|310|#a6cee3|Caspase domain
+EP00063_Salmo_salar|NP_001133393.1	279	RE|50|277|#a6cee3|Caspase domain
+EP00064_Thunnus_orientalis|superscaffoldBa00000353_g4051	1785	HV|588|668|#b2df8a|Caspase recruitment domain	HV|1457|1537|#b2df8a|Caspase recruitment domain	HV|1279|1359|#b2df8a|Caspase recruitment domain	HV|6|88|#b2df8a|Caspase recruitment domain	RE|715|964|#a6cee3|Caspase domain	RE|1588|1714|#a6cee3|Caspase domain	RE|124|300|#a6cee3|Caspase domain	PU|432|524|#6a3d9a|Integrase core domain	PD|354|411|#ffff99|Integrase zinc binding domain
+EP00065_Mola_mola|ENSMMOP00000018542.1	298	RE|61|297|#a6cee3|Caspase domain
+EP00066_Takifugu_rubripes|XP_003961640.1	313	RE|76|312|#a6cee3|Caspase domain
+EP00067_Danio_rerio|NP_001018443.1	316	RE|79|315|#a6cee3|Caspase domain
+EP00068_Latimeria_chalumnae|XP_014351565.1	290	RE|57|289|#a6cee3|Caspase domain
+EP00069_Balaena_mysticetus|bmy_03048T0	337	RE|104|337|#a6cee3|Caspase domain
+EP00070_Physeter_macrocephalus|XP_007124637.1	404	HV|4|87|#b2df8a|Caspase recruitment domain	RE|163|400|#a6cee3|Caspase domain
+EP00071_Canis_lupus|NP_001003125.1	404	RE|163|399|#a6cee3|Caspase domain	HV|4|88|#b2df8a|Caspase recruitment domain
+EP00072_Mus_musculus|NP_033937.2	402	RE|162|398|#a6cee3|Caspase domain	HV|4|89|#b2df8a|Caspase recruitment domain
+EP00073_Rattus_norvegicus|NP_036894.2	402	RE|162|398|#a6cee3|Caspase domain	HV|4|89|#b2df8a|Caspase recruitment domain
+EP00074_Homo_sapiens|NP_001244047.1	404	HV|4|88|#b2df8a|Caspase recruitment domain	RE|163|400|#a6cee3|Caspase domain
+EP00075_Anas_platyrhynchos|XP_005014501.2	309	RE|73|309|#a6cee3|Caspase domain
+EP00076_Gallus_gallus|XP_025007610.1	309	RE|73|309|#a6cee3|Caspase domain
+EP00077_Pelodiscus_sinensis|XP_025043219.1	530	RE|300|528|#a6cee3|Caspase domain	PR|35|182|#6a3d9a|CENP-A nucleosome associated complex (NAC) subunit
+EP00078_Anolis_carolinensis|XP_003223489.1	305	RE|69|305|#a6cee3|Caspase domain
+EP00079_Xenopus_tropicalis|XP_017946639.1	288	RE|56|286|#a6cee3|Caspase domain
+EP00080_Pristionchus_pacificus|PDM71205.1	1380	RE|1136|1376|#a6cee3|Caspase domain
+EP00081_Caenorhabditis_elegans|NP_001255708.1	503	HV|8|89|#b2df8a|Caspase recruitment domain	RE|243|494|#a6cee3|Caspase domain
+EP00082_Ixodes_scapularis|XP_002414145.1	233	RE|13|229|#a6cee3|Caspase domain
+EP00083_Stegodyphus_mimosarum|KFM82848.1	286	RE|49|285|#a6cee3|Caspase domain
+EP00084_Strigamia_maritima|SMAR010202-PA	328	RE|89|322|#a6cee3|Caspase domain
+EP00085_Daphnia_pulex|EFX74107.1	297	RE|54|289|#a6cee3|Caspase domain
+EP00086_Labidocera_madurae|GFWO01132054.1.p1	637	RE|172|437|#a6cee3|Caspase domain	RE|31|117|#a6cee3|Caspase domain	RE|492|636|#a6cee3|Caspase domain
+EP00087_Eurytemora_affinis|XP_023343736.1	429	RE|165|362|#a6cee3|Caspase domain
+EP00088_Acartia_fossae|TRINITY_DN6718_c0_g1_i3.p1	403	RE|167|400|#a6cee3|Caspase domain
+EP00089_Calanus_finmarchicus|GAXK01146373.1.p1	479	RE|3|181|#a6cee3|Caspase domain	RE|251|476|#a6cee3|Caspase domain
+EP00090_Calanus_glacialis|TRINITY_DN5777_c0_g1_i1.p1	371	RE|136|368|#a6cee3|Caspase domain
+EP00091_Calanus_sinicus|TRINITY_DN7441_c0_g1_i1.p1	339	RE|136|336|#a6cee3|Caspase domain
+EP00092_Neocalanus_flemingeri|GFUD01029677.1.p1	354	RE|119|351|#a6cee3|Caspase domain
+EP00093_Oithona_nana|06309.XXX_72223_70949_1	257	RE|18|253|#a6cee3|Caspase domain
+EP00094_Tigriopus_californicus|TCALIF_03091-PB	463	RE|220|455|#a6cee3|Caspase domain
+EP00095_Tigriopus_kingsejongensis|snap_masked-scaffold220_size252247-processed-gene-0.1	604	RE|314|549|#a6cee3|Caspase domain
+EP00096_Caligus_rogercresseyi|TRINITY_DN2870_c0_g1_i2.p1	340	RE|95|328|#a6cee3|Caspase domain
+EP00097_Lepeophtheirus_salmonis|EMLSAP00000000439	346	RE|101|334|#a6cee3|Caspase domain
+EP00098_Tribolium_castaneum|XP_967501.2	334	RE|70|303|#a6cee3|Caspase domain
+EP00099_Drosophila_melanogaster|NP_524551.2	339	RE|94|325|#a6cee3|Caspase domain
+EP00100_Culex_quinquefasciatus|XP_001842236.1	305	RE|69|301|#a6cee3|Caspase domain
+EP00101_Apis_mellifera|XP_395697.2	298	RE|57|289|#a6cee3|Caspase domain
+EP00102_Acyrthosiphon_pisum|XP_001944447.1	312	RE|78|307|#a6cee3|Caspase domain
+EP00103_Capitella_teleta|ELU15346.1	240	RE|10|237|#a6cee3|Caspase domain
+EP00104_Lingula_anatina|XP_013399774.1	288	RE|45|280|#a6cee3|Caspase domain
+EP00105_Crassostrea_gigas|XP_011447205.2	293	RE|59|290|#a6cee3|Caspase domain
+EP00106_Octopus_bimaculoides|XP_014780506.1	278	RE|31|270|#a6cee3|Caspase domain
+EP00107_Lottia_gigantea|LotgiP106792	260	RE|20|256|#a6cee3|Caspase domain
+EP00108_Taenia_solium|TsM_000622200	378	HV|7|88|#b2df8a|Caspase recruitment domain	RE|134|370|#a6cee3|Caspase domain
+EP00109_Schistosoma_mansoni|XP_018646351.1	379	RE|138|373|#a6cee3|Caspase domain	HV|7|89|#b2df8a|Caspase recruitment domain
+EP00110_Nematostella_vectensis|XP_001633326.1	358	HV|6|87|#b2df8a|Caspase recruitment domain	RE|127|351|#a6cee3|Caspase domain
+EP00111_Clytia_hemisphaerica|TCONS_00050538-protein	456	RE|219|449|#a6cee3|Caspase domain	HV|39|99|#b2df8a|Caspase recruitment domain
+EP00112_Aurelia_sp_Birch-Aquarium-sp1|Seg3242.2	437	HV|9|80|#b2df8a|Caspase recruitment domain	RE|201|426|#a6cee3|Caspase domain
+EP00113_Trichoplax_adhaerens|XP_002114145.1	240	RE|3|228|#a6cee3|Caspase domain
+EP00114_Trichoplax_sp_H2|RDD44781.1	432	RE|180|420|#a6cee3|Caspase domain	HV|14|97|#b2df8a|Caspase recruitment domain
+EP00115_Mnemiopsis_leidyi|ML154125a-PA	444	RE|194|435|#a6cee3|Caspase domain
+EP00116_Pleurobrachia_bachei|sb|3467624|	290	RE|87|259|#a6cee3|Caspase domain
+EP00117_Sycon_ciliatum|scpid46428|	448	RE|191|447|#a6cee3|Caspase domain	HV|8|86|#b2df8a|Caspase recruitment domain
+EP00118_Oscarella_pearsei|m.307436	456	RE|211|452|#a6cee3|Caspase domain	HV|28|103|#b2df8a|Caspase recruitment domain
+EP00119_Amphimedon_queenslandica|XP_003383614.2	968	PD|728|957|#b15928|Apolipoprotein L	RE|507|616|#a6cee3|Caspase domain	RE|49|285|#a6cee3|Caspase domain
+EP00122_Pirum_gemmata|Pgem_evm1s16705	268	RE|25|257|#a6cee3|Caspase domain
+EP00123_Amoebidium_parasiticum|comp93413_c0_seq1|m.48627	382	RE|122|370|#a6cee3|Caspase domain
+EP00125_Sphaeroforma_arctica|XP_014159973.1	371	RE|57|359|#a6cee3|Caspase domain
+EP00127_Corallochytrium_limacisporum|Clim_evm19s166	413	RE|134|401|#a6cee3|Caspase domain
+EP00129_Allomyces_macrogynus|KNE58568.1	471	RE|174|459|#a6cee3|Caspase domain
+EP00130_Batrachochytrium_dendrobatidis|XP_006675108.1	457	RE|161|445|#a6cee3|Caspase domain
+EP00131_Spizellomyces_punctatus|XP_016608461.1	471	RE|175|460|#a6cee3|Caspase domain
+EP00132_Gonapodya_prolifera|KXS14033.1	505	RE|199|494|#a6cee3|Caspase domain
+EP00133_Fusarium_graminearum|XP_011328572.1	402	RE|108|395|#a6cee3|Caspase domain
+EP00134_Neurospora_crassa|XP_959720.2	426	RE|134|421|#a6cee3|Caspase domain
+EP00135_Aspergillus_nidulans|XP_663316.1	404	RE|111|398|#a6cee3|Caspase domain
+EP00136_Aspergillus_niger|XP_001399027.2	446	RE|153|440|#a6cee3|Caspase domain
+EP00137_Aspergillus_oryzae|EIT73218.1	432	RE|139|426|#a6cee3|Caspase domain
+EP00138_Coccidioides_posadasii|XP_003068347.1	461	RE|168|454|#a6cee3|Caspase domain
+EP00139_Candida_albicans|XP_723205.1	448	RE|148|443|#a6cee3|Caspase domain
+EP00140_Debaryomyces_hansenii|XP_462508.2	440	RE|146|433|#a6cee3|Caspase domain
+EP00141_Yarrowia_lipolytica|XP_504976.1	461	RE|168|455|#a6cee3|Caspase domain
+EP00142_Kluyveromyces_lactis|XP_455119.2	433	RE|138|427|#a6cee3|Caspase domain
+EP00143_Candida_glabrata|XP_447715.1	392	RE|98|385|#a6cee3|Caspase domain
+EP00144_Saccharomyces_cerevisiae|NP_014840.4	432	RE|136|425|#a6cee3|Caspase domain
+EP00145_Schizosaccharomyces_pombe|NP_588503.1	425	RE|130|418|#a6cee3|Caspase domain
+EP00146_Coprinopsis_cinerea|XP_001836373.2	455	RE|161|448|#a6cee3|Caspase domain
+EP00147_Laccaria_bicolor|XP_001875835.1	514	RE|220|508|#a6cee3|Caspase domain
+EP00148_Cryptococcus_gattii|KIR68829.1	462	RE|166|456|#a6cee3|Caspase domain
+EP00149_Cryptococcus_neoformans|XP_012052115.1	462	RE|162|457|#a6cee3|Caspase domain
+EP00150_Ustilago_maydis|XP_011387285.1	402	RE|110|394|#a6cee3|Caspase domain
+EP00151_Rhizophagus_irregularis|XP_025186495.1	402	RE|110|392|#a6cee3|Caspase domain
+EP00152_Rhizopus_delemar|EIE87547.1	513	RE|216|507|#a6cee3|Caspase domain
+EP00153_Phycomyces_blakesleeanus|XP_018288235.1	301	RE|4|295|#a6cee3|Caspase domain
+EP00154_Conidiobolus_coronatus|KXN72138.1	494	RE|199|482|#a6cee3|Caspase domain
+EP00157_Rozella_allomycis|EPZ31842.1	358	RE|108|341|#a6cee3|Caspase domain
+EP00158_Paraphelidium_tribonemae|Partr_v1_DN25965_c0_g1_i2_m68496	432	RE|133|420|#a6cee3|Caspase domain
+EP00161_Ancyromonas_sigmoides|TRINITY_DN2046_c3_g1_i1.p1	592	RE|37|278|#a6cee3|Caspase domain	RE|316|563|#a6cee3|Caspase domain
+EP00162_Nutomonas_longa|comp21775_c0_seq1|m.48756	492	RE|84|327|#a6cee3|Caspase domain	RE|360|483|#a6cee3|Caspase domain
+EP00164_Ancoracysta_twista|GFYU01032371.1.p1	233	RE|77|230|#a6cee3|Caspase domain
+EP00168_Porphyra_purpurea|TRINITY_DN5141_c0_g1_i1.p2	378	RE|78|365|#a6cee3|Caspase domain
+EP00169_Porphyra_umbilicalis|OSX77263.1	535	RE|195|524|#a6cee3|Caspase domain
+EP00170_Pyropia_yezoensis|contig_9228_g2199	538	RE|197|527|#a6cee3|Caspase domain
+EP00171_Calliarthron_tuberculosum|IDg11585t1	447	RE|138|441|#a6cee3|Caspase domain
+EP00172_Hildenbrandia_rubra|Plantae.Rhodophyta-Hildenbrandia_rubra.ctg31028.p1	573	RE|284|565|#a6cee3|Caspase domain	RE|34|130|#a6cee3|Caspase domain
+EP00173_Palmaria_palmata|Plantae.Rhodophyta-Palmaria_palmata.ctg3415.p1	222	RE|12|215|#a6cee3|Caspase domain
+EP00176_Chondrus_crispus|XP_005710904.1	429	RE|125|422|#a6cee3|Caspase domain
+EP00177_Eucheuma_denticulatum|GFKZ01008516.1.p1	493	RE|3|491|#a6cee3|Caspase domain
+EP00178_Gracilaria_changii|TRINITY_DN3829_c0_g1_i1.p1	472	RE|167|465|#a6cee3|Caspase domain
+EP00179_Madagascaria_erythrocladioides|CAMPEP_0198312652	422	RE|61|370|#a6cee3|Caspase domain
+EP00181_Compsopogon_caeruleus|CAMPEP_0184682050	553	RE|250|544|#a6cee3|Caspase domain
+EP00182_Erythrolobus_australicus|CAMPEP_0185830260	434	RE|132|425|#a6cee3|Caspase domain
+EP00183_Erythrolobus_madagascarensis|CAMPEP_0185847732	488	RE|194|479|#a6cee3|Caspase domain
+EP00184_Porphyridium_aerugineum|CAMPEP_0184696082	428	RE|126|420|#a6cee3|Caspase domain
+EP00185_Porphyridium_purpureum|POR0494..scf227_4	509	RE|199|497|#a6cee3|Caspase domain
+EP00186_Timspurckia_oligopyrenoides|CAMPEP_0182444716	350	RE|3|345|#a6cee3|Caspase domain
+EP00187_Rhodella_violacea|CAMPEP_0184709558	407	RE|36|405|#a6cee3|Caspase domain
+EP00188_Purpureofilum_apyrenoidigerum|Plantae.Rhodophyta-Purpureofilum_apyrenoidigerum.ctg30431.p1	405	RE|3|400|#a6cee3|Caspase domain
+EP00189_Rhodosorus_marinus|CAMPEP_0184747214	386	RE|3|383|#a6cee3|Caspase domain
+EP00190_Stylonematophyceae_sp_CCMP1999|CAMPEP_0198737146	419	RE|17|414|#a6cee3|Caspase domain
+EP00191_Tetraselmis_sp_GSL018|CAMPEP_0177600898	390	RE|3|384|#a6cee3|Caspase domain
+EP00192_Tetraselmis_astigmatica|CAMPEP_0117667254	429	RE|140|422|#a6cee3|Caspase domain
+EP00193_Tetraselmis_chuii|CAMPEP_0177756616	476	RE|188|470|#a6cee3|Caspase domain
+EP00194_Tetraselmis_striata|CAMPEP_0183922346	398	RE|56|168|#a6cee3|Caspase domain	RE|187|343|#a6cee3|Caspase domain
+EP00195_Chlamydomonas_chlamydogama|CAMPEP_0202907442	510	RE|191|463|#a6cee3|Caspase domain
+EP00196_Chlamydomonas_euryale|CAMPEP_0201466100	293	RE|14|279|#a6cee3|Caspase domain
+EP00197_Chlamydomonas_leiostraca|CAMPEP_0202860226	540	RE|224|463|#a6cee3|Caspase domain
+EP00198_Chlamydomonas_reinhardtii|XP_001696956.1	405	RE|125|399|#a6cee3|Caspase domain
+EP00199_Chlamydomonas_sp_CCMP681|CAMPEP_0119116156	1748	RE|46|339|#a6cee3|Caspase domain
+EP00200_Dunaliella_tertiolecta|CAMPEP_0202353238	384	RE|97|373|#a6cee3|Caspase domain
+EP00201_Polytomella_parva|CAMPEP_0175058388	403	RE|137|392|#a6cee3|Caspase domain
+EP00202_Volvox_carteri|XP_002948071.1	463	RE|175|455|#a6cee3|Caspase domain
+EP00203_Chlorella_variabilis|XP_005844869.1	197	RE|3|196|#a6cee3|Caspase domain
+EP00205_Picochlorum_sp_RCC944|CAMPEP_0182612348	366	RE|82|360|#a6cee3|Caspase domain
+EP00206_Coccomyxa_subellipsoidea|XP_005646480.1	515	RE|217|504|#a6cee3|Caspase domain
+EP00208_Stichococcus_sp_RCC1054|CAMPEP_0206142600	360	RE|55|350|#a6cee3|Caspase domain
+EP00210_Caulerpa_lentillifera|g7794.t1	338	RE|54|328|#a6cee3|Caspase domain
+EP00211_Chloroparvula_japonica|CAMPEP_0119121220	385	RE|31|129|#a6cee3|Caspase domain	RE|151|306|#a6cee3|Caspase domain
+EP00212_Chloropicon_laureae|CAMPEP_0197493080	382	RE|81|371|#a6cee3|Caspase domain
+EP00215_Chloropicon_roscoffensis|CAMPEP_0197501610	914	RE|100|392|#a6cee3|Caspase domain
+EP00218_Dolichomastix_tenuilepis|CAMPEP_0170151776	520	RE|185|433|#a6cee3|Caspase domain	DI|131|165|#fb9a99|CUE domain
+EP00227_Mantoniella_beaufortii|CAMPEP_0197609440	328	RE|46|287|#a6cee3|Caspase domain
+EP00228_Micromonas_bravo|CAMPEP_0203008084	418	RE|38|123|#a6cee3|Caspase domain	RE|145|304|#a6cee3|Caspase domain
+EP00229_Micromonas_commoda|XP_002501583.1	449	RE|184|348|#a6cee3|Caspase domain
+EP00232_Nephroselmis_pyriformis|CAMPEP_0182911960	518	RE|218|510|#a6cee3|Caspase domain
+EP00233_Prasinococcus_capsulatus|CAMPEP_0196288310	497	RE|211|490|#a6cee3|Caspase domain
+EP00236_Picocystis_salinarum|CAMPEP_0183825998	399	RE|115|386|#a6cee3|Caspase domain
+EP00237_Pycnococcus_provasolii|CAMPEP_0205951644	391	RE|83|317|#a6cee3|Caspase domain
+EP00238_Polyblepharides_amylifera|CAMPEP_0196586092	341	RE|116|282|#a6cee3|Caspase domain	RE|14|97|#a6cee3|Caspase domain
+EP00239_Pterosperma_sp_CCMP1384|CAMPEP_0197862258	437	RE|106|347|#a6cee3|Caspase domain
+EP00240_Pyramimonas_obovata|CAMPEP_0118935398	457	RE|152|396|#a6cee3|Caspase domain
+EP00241_Pyramimonas_parkeae|CAMPEP_0114294466	432	RE|128|366|#a6cee3|Caspase domain
+EP00242_Pyramimonas_sp_CCMP2087|CAMPEP_0198230542	374	RE|95|348|#a6cee3|Caspase domain
+EP00243_Klebsormidium_subtile|TRINITY_DN275_c0_g1_i2.p1	389	RE|3|387|#a6cee3|Caspase domain
+EP00244_Chara_vulgaris|TRINITY_DN2123_c1_g3_i1.p1	146	RE|9|145|#a6cee3|Caspase domain
+EP00245_Coleochaete_scutata|TRINITY_DN1858_c1_g1_i2.p1	397	PL|14|38|#ff7f00|LSD1 zinc finger	RE|114|385|#a6cee3|Caspase domain
+EP00246_Nothoceros_aenigmaticus|TRINITY_DN18_c0_g1_i1.p1	418	RE|3|413|#a6cee3|Caspase domain
+EP00247_Physcomitrella_patens|XP_024401505.1	357	PL|7|31|#ff7f00|LSD1 zinc finger	RE|72|349|#a6cee3|Caspase domain
+EP00248_Marchantia_polymorpha|PTQ38438.1	354	RE|73|344|#a6cee3|Caspase domain	PL|8|30|#ff7f00|LSD1 zinc finger
+EP00249_Psilotum_nudum|c26337_g1_i1	358	RE|76|350|#a6cee3|Caspase domain	PL|10|34|#ff7f00|LSD1 zinc finger
+EP00250_Pteridium_aquilinum|c12106_g1_i1	426	PL|82|106|#ff7f00|LSD1 zinc finger	RE|143|413|#a6cee3|Caspase domain
+EP00251_Ginkgo_biloba|Gb_27565	360	RE|76|350|#a6cee3|Caspase domain	PL|7|31|#ff7f00|LSD1 zinc finger
+EP00252_Welwitschia_mirabilis|TRINITY_DN4865_c0_g2_i1.p1	359	RE|75|351|#a6cee3|Caspase domain	PL|12|36|#ff7f00|LSD1 zinc finger
+EP00253_Pinus_taeda|PITA_10362	388	RE|79|320|#a6cee3|Caspase domain
+EP00254_Amborella_trichopoda|XP_006838461.1	361	RE|74|353|#a6cee3|Caspase domain	PL|7|31|#ff7f00|LSD1 zinc finger
+EP00255_Erythranthe_guttata|XP_012833951.1	360	RE|70|347|#a6cee3|Caspase domain	PL|7|31|#ff7f00|LSD1 zinc finger
+EP00256_Glycine_max|XP_014634961.1	364	RE|73|310|#a6cee3|Caspase domain	PL|9|33|#ff7f00|LSD1 zinc finger
+EP00257_Ricinus_communis|XP_002511047.1	367	RE|83|360|#a6cee3|Caspase domain	PL|7|31|#ff7f00|LSD1 zinc finger
+EP00258_Populus_trichocarpa|XP_006375191.1	366	RE|79|357|#a6cee3|Caspase domain	PL|9|33|#ff7f00|LSD1 zinc finger
+EP00259_Arabidopsis_lyrata|XP_020883589.1	363	RE|91|326|#a6cee3|Caspase domain
+EP00260_Arabidopsis_thaliana|NP_171719.2	367	PL|18|42|#ff7f00|LSD1 zinc finger	RE|80|357|#a6cee3|Caspase domain
+EP00261_Vitis_vinifera|XP_002280421.1	362	RE|79|355|#a6cee3|Caspase domain	PL|7|31|#ff7f00|LSD1 zinc finger
+EP00262_Sarcandra_glabra|TRINITY_DN24818_c0_g1_i1.p1	364	RE|80|354|#a6cee3|Caspase domain	PL|7|31|#ff7f00|LSD1 zinc finger
+EP00263_Brachypodium_distachyon|XP_010235006.2	355	PL|7|31|#ff7f00|LSD1 zinc finger	RE|66|346|#a6cee3|Caspase domain
+EP00264_Hordeum_vulgare|HORVU1Hr1G055210.1	356	RE|68|348|#a6cee3|Caspase domain	PL|7|31|#ff7f00|LSD1 zinc finger
+EP00265_Oryza_sativa|NP_001050269.1	302	RE|8|292|#a6cee3|Caspase domain
+EP00266_Sorghum_bicolor|XP_002441314.2	875	RE|1|378|#a6cee3|Caspase domain	RE|465|873|#a6cee3|Caspase domain
+EP00267_Zea_mays|NP_001131800.1	351	PL|7|31|#ff7f00|LSD1 zinc finger	RE|64|339|#a6cee3|Caspase domain
+EP00268_Persea_americana|TRINITY_DN4750_c0_g3_i1.p1	351	RE|62|338|#a6cee3|Caspase domain	PL|10|34|#ff7f00|LSD1 zinc finger
+EP00269_Selaginella_moellendorffii|XP_024537125.1	355	PL|9|33|#ff7f00|LSD1 zinc finger	RE|70|347|#a6cee3|Caspase domain
+EP00270_Netrium_digitus|TRINITY_DN2423_c2_g1_i1.p1	438	RE|4|433|#a6cee3|Caspase domain
+EP00271_Cylindrocystis_brebissonii|TRINITY_DN39082_c0_g1_i1.p1	591	RE|482|588|#a6cee3|Caspase domain	RE|3|158|#a6cee3|Caspase domain
+EP00272_Mesostigma_viride|TRINITY_DN1071_c0_g2_i1.p2	257	RE|3|158|#a6cee3|Caspase domain
+EP00275_Glaucocystis_nostochinearum|EC122337.1.p1	162	RE|39|160|#a6cee3|Caspase domain
+EP00276_Gloeochaete_wittrockiana|CAMPEP_0184644028	374	RE|76|362|#a6cee3|Caspase domain
+EP00277_Geminigera_cryophila|CAMPEP_0179425804	525	HH|103|133|#1f78b4|WW domain	RE|225|460|#a6cee3|Caspase domain
+EP00279_Guillardia_theta|XP_005836863.1	270	RE|3|240|#a6cee3|Caspase domain
+EP00280_Hanusia_phi|CAMPEP_0169499394	495	HH|71|101|#1f78b4|WW domain	RE|197|434|#a6cee3|Caspase domain
+EP00281_Chroomonas_sp_CCMP1168|CAMPEP_0206235058	318	RE|57|297|#a6cee3|Caspase domain
+EP00282_Hemiselmis_andersenii|CAMPEP_0169438252	501	RE|201|440|#a6cee3|Caspase domain
+EP00283_Hemiselmis_rufescens|CAMPEP_0173443182	348	RE|23|125|#a6cee3|Caspase domain	RE|146|306|#a6cee3|Caspase domain
+EP00284_Hemiselmis_tepida|CAMPEP_0174932666	369	RE|67|307|#a6cee3|Caspase domain
+EP00285_Hemiselmis_virescens|CAMPEP_0173416062	599	RE|234|310|#a6cee3|Caspase domain	RE|82|214|#a6cee3|Caspase domain	RE|374|590|#a6cee3|Caspase domain
+EP00286_Rhodomonas_abbreviata|CAMPEP_0181320318	598	RE|31|314|#a6cee3|Caspase domain	EL|362|509|#33a02c|TerD domain
+EP00287_Rhodomonas_sp_CCMP768|CAMPEP_0196726388	491	HH|67|97|#1f78b4|WW domain	TR|116|138|#e31a1c|zinc-ribbon domain	RE|169|426|#a6cee3|Caspase domain
+EP00288_Rhodomonas_lens|CAMPEP_0177735920	394	RE|133|288|#a6cee3|Caspase domain	RE|22|113|#a6cee3|Caspase domain
+EP00289_Rhodomonas_salina|CAMPEP_0172120578	395	RE|54|135|#a6cee3|Caspase domain	RE|154|313|#a6cee3|Caspase domain
+EP00290_Baffinella_sp_CCMP2293|CAMPEP_0180197604	487	RE|155|392|#a6cee3|Caspase domain	HH|62|88|#1f78b4|WW domain
+EP00291_Cryptomonas_curvata|CAMPEP_0172158476	331	RE|141|260|#a6cee3|Caspase domain	RE|25|122|#a6cee3|Caspase domain
+EP00292_Cryptomonas_paramecium|CAMPEP_0113693432	360	RE|46|138|#a6cee3|Caspase domain	RE|157|313|#a6cee3|Caspase domain
+EP00293_Proteomonas_sulcata|CAMPEP_0184327732	521	HH|85|115|#1f78b4|WW domain	RE|216|456|#a6cee3|Caspase domain
+EP00294_Goniomonas_avonlea|CAMPEP_0114560584	458	RE|160|448|#a6cee3|Caspase domain
+EP00295_Goniomonas_pacifica|CAMPEP_0175852354	350	RE|48|341|#a6cee3|Caspase domain
+EP00300_Choanocystis_sp_HF-7|c20335_g1_i2.p1	463	RE|162|398|#a6cee3|Caspase domain
+EP00301_Raphidiophrys_heterophryoidea|c11671_g1_i1.p1	389	RE|78|320|#a6cee3|Caspase domain
+EP00302_Diacronema_sp_CCMP2436|CAMPEP_0179874298	902	RE|559|801|#a6cee3|Caspase domain	HH|411|440|#1f78b4|WW domain
+EP00303_Exanthemachrysis_gayraliae|CAMPEP_0206012876	552	RE|198|436|#a6cee3|Caspase domain	HH|38|68|#1f78b4|WW domain
+EP00304_Pavlova_gyrans|CAMPEP_0206037718	562	HH|12|42|#1f78b4|WW domain	RE|217|460|#a6cee3|Caspase domain
+EP00306_Pavlova_sp_CCMP459|CAMPEP_0185197034	570	HH|40|70|#1f78b4|WW domain	RE|229|472|#a6cee3|Caspase domain
+EP00307_Rebecca_sp_RCC1486|CAMPEP_0119414246	518	RE|165|405|#a6cee3|Caspase domain	HH|18|48|#1f78b4|WW domain
+EP00309_Chrysotila_carterae|CAMPEP_0169926716	379	RE|44|129|#a6cee3|Caspase domain	RE|151|307|#a6cee3|Caspase domain
+EP00311_Isochrysis_galbana|CAMPEP_0179833434	622	RE|319|541|#a6cee3|Caspase domain
+EP00312_Isochrysis_sp_CCMP1244|CAMPEP_0202757980	339	RE|52|247|#a6cee3|Caspase domain
+EP00314_Emiliania_huxleyi|XP_005784645.1	481	RE|214|438|#a6cee3|Caspase domain
+EP00315_Gephyrocapsa_oceanica|CAMPEP_0185536680	522	RE|230|498|#a6cee3|Caspase domain
+EP00316_Scyphosphaera_apsteinii|CAMPEP_0119322042	532	RE|216|455|#a6cee3|Caspase domain
+EP00319_Phaeocystis_globosa|TRINITY_DN88277_c0_g1_i1.p1	403	RE|141|394|#a6cee3|Caspase domain
+EP00320_Phaeocystis_rex|CAMPEP_0119078922	188	RE|37|186|#a6cee3|Caspase domain
+EP00324_Dicrateria_rotunda|CAMPEP_0206160884	184	RE|3|183|#a6cee3|Caspase domain
+EP00325_Haptolina_brevifila|CAMPEP_0174746898	251	RE|2|193|#a6cee3|Caspase domain
+EP00327_Prymnesium_parvum|CAMPEP_0205868228	456	RE|112|212|#a6cee3|Caspase domain	RE|229|387|#a6cee3|Caspase domain
+EP00328_Prymnesium_polylepis|CAMPEP_0115774974	946	RE|414|678|#a6cee3|Caspase domain	RE|123|246|#a6cee3|Caspase domain
+EP00331_Platyophrya_macrostoma|CAMPEP_0176422110	456	RE|185|441|#a6cee3|Caspase domain	PR|102|145|#cab2d6|EF-hand domain pair
+EP00339_Tiarina_fusus|CAMPEP_0117039548	388	RE|91|375|#a6cee3|Caspase domain
+EP00341_Mesodinium_pulex|CAMPEP_0116931430	334	RE|33|112|#a6cee3|Caspase domain	RE|131|281|#a6cee3|Caspase domain
+EP00342_Mesodinium_rubrum|CAMPEP_0179397580	436	RE|45|150|#a6cee3|Caspase domain	RE|169|367|#a6cee3|Caspase domain
+EP00363_Plasmodium_berghei|XP_022713186.1	595	RE|325|478|#a6cee3|Caspase domain
+EP00365_Plasmodium_falciparum|XP_001350260.1	613	RE|318|556|#a6cee3|Caspase domain
+EP00366_Plasmodium_knowlesi|XP_002261346.1	642	RE|345|582|#a6cee3|Caspase domain
+EP00367_Plasmodium_vivax|XP_001616333.1	593	RE|286|497|#a6cee3|Caspase domain
+EP00377_Hammondia_hammondi|XP_008886016.1	742	RE|430|676|#a6cee3|Caspase domain
+EP00378_Neospora_caninum|XP_003881390.1	697	RE|384|630|#a6cee3|Caspase domain
+EP00379_Toxoplasma_gondii|XP_002367830.1	742	RE|430|676|#a6cee3|Caspase domain
+EP00381_Gregarina_niphandrodes|XP_011130889.1	277	RE|9|268|#a6cee3|Caspase domain
+EP00382_Lankesteria_abbotti|CAMPEP_0113850112	383	RE|15|257|#a6cee3|Caspase domain
+EP00386_Alphamonas_edax|GDKI01028113.1.p1	466	RE|147|397|#a6cee3|Caspase domain	DI|32|65|#fb9a99|CUE domain
+EP00387_Chromera_velia|CAMPEP_0184607096	655	RE|334|581|#a6cee3|Caspase domain	TL|16|118|#fdbf6f|C2 domain
+EP00388_Colpodella_angusta|GDKJ01027097.1.p1	309	RE|4|264|#a6cee3|Caspase domain
+EP00390_Vitrella_brassicaformis|CEL94207.1	383	RE|54|369|#a6cee3|Caspase domain
+EP00391_Amoebophrya_sp_Ameob2|CAMPEP_0179000010	439	RE|69|335|#a6cee3|Caspase domain
+EP00392_Amoebophrya_sp_AT5.2|g18612.t1	447	RE|143|387|#a6cee3|Caspase domain
+EP00393_Amoebophrya_sp_ex-Akashiwo-sanguinea|TRINITY_DN6151_c0_g2_i1.p1	1222	RE|804|1052|#a6cee3|Caspase domain	RE|528|777|#a6cee3|Caspase domain
+EP00394_Amoebophrya_sp_ex-Karlodinium-veneficum|GGWG01146439.1.p1	1067	RE|680|941|#a6cee3|Caspase domain	RE|404|651|#a6cee3|Caspase domain
+EP00397_Hematodinium_sp_SG-2012|GEMP01050525.1.p1	429	RE|124|361|#a6cee3|Caspase domain
+EP00401_Gymnodinium_catenatum|CAMPEP_0117457292	888	RE|533|782|#a6cee3|Caspase domain	RE|261|504|#a6cee3|Caspase domain
+EP00402_Amphidinium_carterae|CAMPEP_0176527210	1087	RE|454|705|#a6cee3|Caspase domain	RE|730|976|#a6cee3|Caspase domain
+EP00403_Amphidinium_massartii|CAMPEP_0178404166	1059	RE|409|658|#a6cee3|Caspase domain	RE|685|931|#a6cee3|Caspase domain
+EP00404_Azadinium_spinosum|CAMPEP_0180703524	553	RE|224|468|#a6cee3|Caspase domain	PL|161|185|#ff7f00|LSD1 zinc finger
+EP00405_Crypthecodinium_cohnii|CAMPEP_0206546016	811	RE|62|309|#a6cee3|Caspase domain	RE|340|590|#a6cee3|Caspase domain
+EP00406_Dinophysis_acuminata|CAMPEP_0179232080	1049	RE|378|625|#a6cee3|Caspase domain	RE|653|907|#a6cee3|Caspase domain
+EP00407_Lingulodinium_polyedra|CAMPEP_0118467268	838	RE|440|695|#a6cee3|Caspase domain	RE|168|412|#a6cee3|Caspase domain
+EP00408_Alexandrium_catenella|CAMPEP_0171194534	728	RE|511|725|#a6cee3|Caspase domain	RE|407|483|#a6cee3|Caspase domain	RE|284|400|#a6cee3|Caspase domain	RE|184|264|#a6cee3|Caspase domain
+EP00410_Alexandrium_tamarense|CAMPEP_0116504570	551	RE|238|476|#a6cee3|Caspase domain
+EP00411_Alexandrium_monilatum|CAMPEP_0175676168	519	RE|4|105|#a6cee3|Caspase domain	RE|267|518|#a6cee3|Caspase domain	RE|157|235|#a6cee3|Caspase domain
+EP00412_Alexandrium_andersonii|CAMPEP_0197756806	664	RE|351|606|#a6cee3|Caspase domain	RE|76|323|#a6cee3|Caspase domain
+EP00413_Alexandrium_margalefii|CAMPEP_0204511968	728	RE|280|536|#a6cee3|Caspase domain	RE|5|252|#a6cee3|Caspase domain
+EP00414_Alexandrium_minutum|CAMPEP_0113821678	361	RE|85|326|#a6cee3|Caspase domain
+EP00416_Gambierdiscus_australes|CAMPEP_0171080216	524	RE|219|457|#a6cee3|Caspase domain
+EP00418_Pyrodinium_bahamense|CAMPEP_0179040768	1358	RE|433|680|#a6cee3|Caspase domain	RE|1021|1268|#a6cee3|Caspase domain	RE|1296|1358|#a6cee3|Caspase domain	RE|708|964|#a6cee3|Caspase domain
+EP00419_Tripos_fusus|CAMPEP_0172938520	1380	RE|1015|1268|#a6cee3|Caspase domain	RE|417|673|#a6cee3|Caspase domain	RE|140|388|#a6cee3|Caspase domain	RE|722|990|#a6cee3|Caspase domain	RE|8|84|#a6cee3|Caspase domain
+EP00420_Gonyaulax_spinifera|CAMPEP_0197905810	447	RE|86|329|#a6cee3|Caspase domain
+EP00421_Protoceratium_reticulatum|CAMPEP_0168447732	1418	RE|179|427|#a6cee3|Caspase domain	RE|632|879|#a6cee3|Caspase domain	RE|3|151|#a6cee3|Caspase domain	RE|1209|1400|#a6cee3|Caspase domain	RE|907|1155|#a6cee3|Caspase domain
+EP00423_Heterocapsa_arctica|CAMPEP_0198104732	983	RE|550|626|#a6cee3|Caspase domain	RE|638|812|#a6cee3|Caspase domain	RE|257|518|#a6cee3|Caspase domain
+EP00425_Heterocapsa_triquetra|CAMPEP_0195075752	1157	RE|796|1043|#a6cee3|Caspase domain	RE|519|765|#a6cee3|Caspase domain
+EP00426_Karenia_brevis|CAMPEP_0173810814	1322	RE|559|811|#a6cee3|Caspase domain	RE|840|1088|#a6cee3|Caspase domain
+EP00427_Karlodinium_veneficum|CAMPEP_0169223030	1116	RE|732|990|#a6cee3|Caspase domain	RE|456|703|#a6cee3|Caspase domain
+EP00428_Durinskia_baltica|CAMPEP_0170348090	1726	RE|1075|1320|#a6cee3|Caspase domain	RE|473|721|#a6cee3|Caspase domain	RE|1348|1597|#a6cee3|Caspase domain	RE|748|997|#a6cee3|Caspase domain
+EP00429_Kryptoperidinium_foliaceum|CAMPEP_0176077990	1273	RE|296|547|#a6cee3|Caspase domain	RE|20|270|#a6cee3|Caspase domain	RE|902|1148|#a6cee3|Caspase domain	RE|626|874|#a6cee3|Caspase domain
+EP00432_Prorocentrum_cordatum|CAMPEP_0205744540	329	RE|16|257|#a6cee3|Caspase domain
+EP00434_Breviolum_minutum|symbB.v1.2.018683.t1|scaffold1410.1|size216244|9	548	RE|96|416|#a6cee3|Caspase domain
+EP00435_Cladocopium_sp_Y103|s18_g20.t1	566	RE|74|400|#a6cee3|Caspase domain
+EP00436_Durusdinium_trenchii|CAMPEP_0196991626	450	RE|113|438|#a6cee3|Caspase domain
+EP00437_Effrenium_voratum|CAMPEP_0181519912	1154	RE|515|758|#a6cee3|Caspase domain	RE|788|1041|#a6cee3|Caspase domain
+EP00438_Fugacium_kawagutii|Skav203716	370	RE|56|349|#a6cee3|Caspase domain
+EP00439_Symbiodinium_sp_Y106|s3443_g9.t2	1091	RE|487|730|#a6cee3|Caspase domain	RE|760|1013|#a6cee3|Caspase domain
+EP00440_Ansanella_granifera|gb|GFBE01042815.1|.p1	213	RE|11|213|#a6cee3|Caspase domain
+EP00441_Pelagodinium_beii|CAMPEP_0197622702	1224	RE|839|1093|#a6cee3|Caspase domain	RE|563|807|#a6cee3|Caspase domain
+EP00442_Polarella_glacialis|CAMPEP_0115143872	1212	RE|600|841|#a6cee3|Caspase domain	RE|871|1123|#a6cee3|Caspase domain
+EP00443_Scrippsiella_trochoidea|CAMPEP_0115500842	1747	RE|463|710|#a6cee3|Caspase domain	RE|738|988|#a6cee3|Caspase domain	RE|1371|1622|#a6cee3|Caspase domain	RE|1096|1343|#a6cee3|Caspase domain
+EP00444_Apocalathium_aciculiferum|CAMPEP_0183418960	646	RE|25|288|#a6cee3|Caspase domain	RE|316|603|#a6cee3|Caspase domain
+EP00445_Apocalathium_hangoei|CAMPEP_0203977250	1798	RE|740|993|#a6cee3|Caspase domain	RE|466|712|#a6cee3|Caspase domain	RE|1410|1658|#a6cee3|Caspase domain	RE|1136|1382|#a6cee3|Caspase domain
+EP00446_Apocalathium_sp_SHHI-4|CAMPEP_0177301306	1012	RE|652|900|#a6cee3|Caspase domain	RE|383|624|#a6cee3|Caspase domain	RE|40|288|#a6cee3|Caspase domain
+EP00448_Togula_jolla|CAMPEP_0170579472	1241	RE|524|770|#a6cee3|Caspase domain	RE|801|1053|#a6cee3|Caspase domain
+EP00449_Zooxanthella_nutricula|CAMPEP_0198607102	1121	RE|597|757|#a6cee3|Caspase domain	RE|409|566|#a6cee3|Caspase domain	RE|169|319|#a6cee3|Caspase domain	RE|59|130|#a6cee3|Caspase domain	RE|808|1020|#a6cee3|Caspase domain
+EP00450_Noctiluca_scintillans|CAMPEP_0194522182	1120	RE|492|740|#a6cee3|Caspase domain	RE|768|1016|#a6cee3|Caspase domain
+EP00451_Oxyrrhis_marina|CAMPEP_0204399930	489	RE|187|425|#a6cee3|Caspase domain	DI|12|51|#fb9a99|CUE domain
+EP00454_Perkinsus_marinus|XP_002784933.1	649	RE|291|526|#a6cee3|Caspase domain
+EP00455_Lapot_gusevi|TRINITY_DN17365_c0_g1_i1.p1	154	RE|9|150|#a6cee3|Caspase domain
+EP00456_Euglypha_rotunda|TRINITY_DN3953_c0_g1_i1.p1	264	RE|9|251|#a6cee3|Caspase domain
+EP00462_Mataza_sp_D1|CAMPEP_0175149398	735	RE|350|622|#a6cee3|Caspase domain
+EP00464_Amorphochlora_amoebiformis|CAMPEP_0118593158	413	RE|105|401|#a6cee3|Caspase domain
+EP00466_Bigelowiella_natans|jgi|Bigna1|81648|fgenesh1_pg.82_#_77	480	RE|229|456|#a6cee3|Caspase domain
+EP00469_Lotharella_globosa|CAMPEP_0167822194	425	RE|115|413|#a6cee3|Caspase domain
+EP00470_Lotharella_oceanica|CAMPEP_0170166546	381	RE|71|372|#a6cee3|Caspase domain
+EP00471_Norrisiella_sphaerica|CAMPEP_0184491330	416	RE|107|404|#a6cee3|Caspase domain
+EP00472_Partenskyella_glossopodia|CAMPEP_0197527560	457	RE|145|445|#a6cee3|Caspase domain
+EP00475_Leptophrys_vorax|TRINITY_DN675_c0_g1_i1.p1	690	RE|17|356|#a6cee3|Caspase domain
+EP00479_Gromia_sphaerica|TRINITY_DN142_c0_g1_i2.p1	278	RE|36|239|#a6cee3|Caspase domain
+EP00480_Reticulomyxa_filosa|ETO20793.1	341	RE|97|303|#a6cee3|Caspase domain
+EP00482_Globobulimina_sp_turgida-auriculata|GGCD01101419.1.p1	274	RE|43|252|#a6cee3|Caspase domain
+EP00485_Elphidium_margaritaceum|CAMPEP_0202728390	426	RE|284|421|#a6cee3|Caspase domain	RE|27|259|#a6cee3|Caspase domain
+EP00490_Sorites_sp_Unknown|CAMPEP_0114637774	360	RE|45|286|#a6cee3|Caspase domain
+EP00510_Aplanochytrium_kerguelense|CAMPEP_0184008930	632	RE|332|572|#a6cee3|Caspase domain
+EP00511_Aplanochytrium_stocchinoi|CAMPEP_0204834714	533	RE|207|449|#a6cee3|Caspase domain
+EP00512_Aurantiochytrium_limacinum|CAMPEP_0171485880	364	RE|160|314|#a6cee3|Caspase domain	RE|51|137|#a6cee3|Caspase domain
+EP00513_Hondaea_fermentalgiana|GBG24542.1	398	RE|159|321|#a6cee3|Caspase domain	RE|40|138|#a6cee3|Caspase domain
+EP00514_Thraustochytrium_sp_LLF1b|CAMPEP_0184522580	463	RE|96|184|#a6cee3|Caspase domain	RE|204|360|#a6cee3|Caspase domain
+EP00515_Schizochytrium_aggregatum|CAMPEP_0202071422	755	RE|194|364|#a6cee3|Caspase domain
+EP00516_Thraustochytrida_sp_NY0313808BC1|CAMPEP_0203745392	401	RE|163|329|#a6cee3|Caspase domain	RE|45|143|#a6cee3|Caspase domain
+EP00517_Thraustochytrida_sp_NY07348D|CAMPEP_0205082142	401	RE|163|329|#a6cee3|Caspase domain	RE|45|143|#a6cee3|Caspase domain
+EP00521_Asterionellopsis_glacialis|CAMPEP_0195315796	320	RE|24|110|#a6cee3|Caspase domain	RE|127|290|#a6cee3|Caspase domain
+EP00522_Amphiprora_paludosa|CAMPEP_0172450196	561	RE|363|531|#a6cee3|Caspase domain	RE|251|342|#a6cee3|Caspase domain
+EP00523_Amphiprora_sp_CCMP467|CAMPEP_0168802988	427	RE|53|139|#a6cee3|Caspase domain	RE|158|307|#a6cee3|Caspase domain
+EP00524_Amphora_coffeiformis|CAMPEP_0170668324	308	RE|12|97|#a6cee3|Caspase domain	RE|115|283|#a6cee3|Caspase domain
+EP00525_Craspedostauros_australis|CAMPEP_0198133806	584	RE|400|559|#a6cee3|Caspase domain	RE|25|111|#a6cee3|Caspase domain	RE|295|379|#a6cee3|Caspase domain
+EP00526_Cylindrotheca_closterium|CAMPEP_0113628734	353	RE|53|344|#a6cee3|Caspase domain
+EP00527_Entomoneis_sp_CCMP2396|CAMPEP_0198144448	314	RE|116|283|#a6cee3|Caspase domain	RE|11|97|#a6cee3|Caspase domain
+EP00528_Fragilariopsis_cylindrus|OEU06379.1	377	RE|67|365|#a6cee3|Caspase domain
+EP00529_Nitzschia_sp_RCC80|CAMPEP_0113486460	622	RE|444|584|#a6cee3|Caspase domain	RE|116|273|#a6cee3|Caspase domain	RE|13|98|#a6cee3|Caspase domain
+EP00530_Phaeodactylum_tricornutum|XP_002182552.1	322	RE|13|97|#a6cee3|Caspase domain	RE|116|273|#a6cee3|Caspase domain
+EP00531_Pseudo-nitzschia_arenysensis|CAMPEP_0116132162	358	RE|50|347|#a6cee3|Caspase domain
+EP00532_Pseudo-nitzschia_australis|CAMPEP_0168235436	357	RE|49|345|#a6cee3|Caspase domain
+EP00533_Pseudo-nitzschia_delicatissima|CAMPEP_0197273148	366	RE|59|356|#a6cee3|Caspase domain
+EP00534_Pseudo-nitzschia_fraudulenta|CAMPEP_0201216746	434	RE|124|422|#a6cee3|Caspase domain
+EP00535_Pseudo-nitzschia_heimii|CAMPEP_0197174868	352	RE|49|304|#a6cee3|Caspase domain
+EP00536_Pseudo-nitzschia_multiseries|jgi|Psemu1|188378|e_gw1.76.57.1	359	RE|49|347|#a6cee3|Caspase domain
+EP00537_Pseudo-nitzschia_pungens|CAMPEP_0172382978	359	RE|49|347|#a6cee3|Caspase domain
+EP00538_Stauroneis_constricta|CAMPEP_0119554570	308	RE|116|278|#a6cee3|Caspase domain	RE|12|95|#a6cee3|Caspase domain
+EP00539_Tryblionella_compressa|CAMPEP_0178870058	314	RE|12|94|#a6cee3|Caspase domain	RE|116|273|#a6cee3|Caspase domain
+EP00540_Astrosyne_radiata|CAMPEP_0116827938	309	RE|2|85|#a6cee3|Caspase domain	RE|103|261|#a6cee3|Caspase domain
+EP00541_Cyclophora_tenuis|CAMPEP_0116578154	328	RE|123|280|#a6cee3|Caspase domain	RE|19|105|#a6cee3|Caspase domain
+EP00542_Grammatophora_oceanica|CAMPEP_0194054628	465	RE|159|418|#a6cee3|Caspase domain
+EP00543_Licmophora_paradoxa|CAMPEP_0202475144	642	RE|319|581|#a6cee3|Caspase domain	PL|28|45|#cab2d6|EF hand
+EP00544_Staurosira_sp_CCMP2646|CAMPEP_0202495170	332	RE|20|105|#a6cee3|Caspase domain	RE|124|279|#a6cee3|Caspase domain
+EP00545_Synedropsis_sp_CCMP1620|CAMPEP_0119003990	337	RE|131|305|#a6cee3|Caspase domain	RE|6|112|#a6cee3|Caspase domain
+EP00546_Thalassionema_frauenfeldii|CAMPEP_0178905926	701	TL|176|201|#ff7f00|Zn-finger in Ran binding protein and others	RE|387|636|#a6cee3|Caspase domain
+EP00547_Thalassionema_nitzschioides|CAMPEP_0194237030	878	PL|165|185|#cab2d6|EF hand	TL|348|372|#ff7f00|Zn-finger in Ran binding protein and others	TL|260|284|#ff7f00|Zn-finger in Ran binding protein and others	RE|561|812|#a6cee3|Caspase domain
+EP00548_Thalassiothrix_antarctica|CAMPEP_0194141864	633	RE|328|589|#a6cee3|Caspase domain
+EP00549_Striatella_unipunctata|CAMPEP_0118699212	408	RE|62|339|#a6cee3|Caspase domain
+EP00550_Attheya_septentrionalis|CAMPEP_0198300938	326	RE|17|264|#a6cee3|Caspase domain
+EP00551_Chaetoceros_affinis|CAMPEP_0203640378	346	RE|148|305|#a6cee3|Caspase domain	RE|34|129|#a6cee3|Caspase domain
+EP00553_Chaetoceros_curvisetus|CAMPEP_0204642914	326	RE|11|105|#a6cee3|Caspase domain	RE|125|282|#a6cee3|Caspase domain
+EP00554_Chaetoceros_debilis|CAMPEP_0194082484	311	RE|118|275|#a6cee3|Caspase domain	RE|12|97|#a6cee3|Caspase domain
+EP00555_Chaetoceros_dichaeta|CAMPEP_0198265458	321	RE|118|275|#a6cee3|Caspase domain	RE|13|99|#a6cee3|Caspase domain
+EP00556_Chaetoceros_neogracilis|CAMPEP_0195453482	335	RE|144|321|#a6cee3|Caspase domain	RE|33|125|#a6cee3|Caspase domain
+EP00557_Chaetoceros_sp_GSL56|CAMPEP_0176488828	313	RE|114|271|#a6cee3|Caspase domain	RE|10|95|#a6cee3|Caspase domain
+EP00558_Chaetoceros_sp_UNC1202|CAMPEP_0197240820	311	RE|114|271|#a6cee3|Caspase domain	RE|8|95|#a6cee3|Caspase domain
+EP00559_Dactyliosolen_fragilissimus|CAMPEP_0184871764	661	RE|200|598|#a6cee3|Caspase domain
+EP00560_Eucampia_antarctica|CAMPEP_0197842194	716	PR|8|71|#cab2d6|EF-hand domain pair	RE|416|659|#a6cee3|Caspase domain
+EP00561_Arcocellulus_cornucervis|CAMPEP_0185821970	348	RE|50|336|#a6cee3|Caspase domain
+EP00562_Extubocellulus_spinifer|CAMPEP_0178544390	356	RE|58|344|#a6cee3|Caspase domain
+EP00563_Minutocellus_polymorphus|CAMPEP_0181032730	338	RE|40|326|#a6cee3|Caspase domain
+EP00564_Ditylum_brightwellii|CAMPEP_0185685330	705	RE|399|643|#a6cee3|Caspase domain
+EP00565_Helicotheca_tamesis|CAMPEP_0185729744	311	RE|117|274|#a6cee3|Caspase domain	RE|11|100|#a6cee3|Caspase domain
+EP00566_Odontella_aurita|CAMPEP_0113544284	343	RE|47|331|#a6cee3|Caspase domain
+EP00567_Triceratium_dubium|CAMPEP_0197442984	346	RE|47|334|#a6cee3|Caspase domain
+EP00568_Trieres_chinensis|CAMPEP_0183316776	395	RE|65|312|#a6cee3|Caspase domain
+EP00569_Conticribra_weissflogii|CAMPEP_0171341062	729	RE|412|655|#a6cee3|Caspase domain
+EP00570_Cyclotella_meneghiniana|CAMPEP_0172295336	684	RE|367|610|#a6cee3|Caspase domain
+EP00571_Detonula_confervacea|CAMPEP_0172315106	363	RE|65|351|#a6cee3|Caspase domain
+EP00572_Skeletonema_dohrnii|CAMPEP_0195219796	744	RE|429|672|#a6cee3|Caspase domain
+EP00573_Skeletonema_grethae|CAMPEP_0201698292	334	RE|36|322|#a6cee3|Caspase domain
+EP00574_Skeletonema_japonicum|CAMPEP_0201729486	348	RE|49|339|#a6cee3|Caspase domain
+EP00575_Skeletonema_marinoi|CAMPEP_0115928610	353	RE|54|341|#a6cee3|Caspase domain
+EP00576_Skeletonema_menzelii|CAMPEP_0183654314	348	RE|49|336|#a6cee3|Caspase domain
+EP00577_Skeletonema_sp_RCC1716|CAMPEP_0113383518	735	RE|423|666|#a6cee3|Caspase domain
+EP00578_Thalassiosira_sp_NH16|CAMPEP_0181108854	345	RE|47|332|#a6cee3|Caspase domain
+EP00579_Thalassiosira_antarctica|CAMPEP_0201976950	358	RE|62|348|#a6cee3|Caspase domain
+EP00580_Thalassiosira_gravida|CAMPEP_0201678360	358	RE|60|346|#a6cee3|Caspase domain
+EP00581_Thalassiosira_minuscula|CAMPEP_0183723890	345	RE|47|333|#a6cee3|Caspase domain
+EP00582_Thalassiosira_oceanica|EJK66595.1	431	RE|115|358|#a6cee3|Caspase domain
+EP00583_Thalassiosira_pseudonana|XP_002292692.1	208	RE|21|208|#a6cee3|Caspase domain
+EP00584_Thalassiosira_punctigera|CAMPEP_0172541510	348	RE|50|336|#a6cee3|Caspase domain
+EP00585_Thalassiosira_rotula|CAMPEP_0196194078	416	RE|87|404|#a6cee3|Caspase domain
+EP00586_Coscinodiscus_wailesii|CAMPEP_0172497968	312	RE|115|272|#a6cee3|Caspase domain	RE|11|98|#a6cee3|Caspase domain
+EP00587_Corethron_hystrix|CAMPEP_0113315442	416	RE|100|351|#a6cee3|Caspase domain
+EP00588_Corethron_pennatum|CAMPEP_0194282024	347	RE|50|335|#a6cee3|Caspase domain
+EP00589_Leptocylindrus_danicus|CAMPEP_0116016158	320	RE|117|288|#a6cee3|Caspase domain	RE|14|99|#a6cee3|Caspase domain
+EP00590_Aulacoseira_subarctica|CAMPEP_0172427650	603	RE|275|541|#a6cee3|Caspase domain	PR|5|66|#cab2d6|EF-hand domain pair
+EP00591_Stephanopyxis_turris|CAMPEP_0195508788	682	PU|53|78|#ffff99|EF-hand domain	RE|368|620|#a6cee3|Caspase domain
+EP00592_Proboscia_alata|CAMPEP_0194448892	715	RE|391|655|#a6cee3|Caspase domain
+EP00593_Proboscia_inermis|CAMPEP_0171316404	556	RE|232|496|#a6cee3|Caspase domain
+EP00594_Rhizosolenia_setigera|CAMPEP_0178959578	590	RE|212|525|#a6cee3|Caspase domain
+EP00602_Paraphysomonas_bandaiensis|CAMPEP_0185043266	635	RE|329|571|#a6cee3|Caspase domain
+EP00603_Paraphysomonas_imperforata|CAMPEP_0114426224	668	RE|388|627|#a6cee3|Caspase domain
+EP00607_Mallomonas_sp_CCMP3275|CAMPEP_0182418294	511	RE|210|450|#a6cee3|Caspase domain
+EP00609_Ectocarpus_siliculosus|CBJ32943.1	2358	RE|150|362|#a6cee3|Caspase domain	RE|41|130|#a6cee3|Caspase domain
+EP00611_Tribonema_gayanum|TRINITY_DN112_c2_g1_i1.p1	706	RE|486|642|#a6cee3|Caspase domain	RE|389|467|#a6cee3|Caspase domain
+EP00612_Vaucheria_litorea|CAMPEP_0171462286	372	RE|42|141|#a6cee3|Caspase domain	RE|161|356|#a6cee3|Caspase domain
+EP00618_Florenciella_parvula|CAMPEP_0119473900	800	RE|497|742|#a6cee3|Caspase domain	HH|28|57|#1f78b4|WW domain
+EP00619_Florenciella_sp_RCC1007|CAMPEP_0205905716	846	RE|424|669|#a6cee3|Caspase domain	DI|75|113|#fb9a99|CUE domain	HH|33|62|#1f78b4|WW domain
+EP00620_Florenciella_sp_RCC1587|CAMPEP_0182563758	849	RE|646|791|#a6cee3|Caspase domain	RE|493|570|#a6cee3|Caspase domain	HH|28|57|#1f78b4|WW domain
+EP00621_Florenciella_sp_RCC1693|CAMPEP_0182523336	794	RE|490|736|#a6cee3|Caspase domain	HH|28|57|#1f78b4|WW domain
+EP00625_Aureococcus_anophagefferens|XP_009040303.1	297	RE|1|238|#a6cee3|Caspase domain
+EP00626_Pelagococcus_subviridis|CAMPEP_0195815194	565	RE|262|503|#a6cee3|Caspase domain	HH|212|241|#1f78b4|WW domain	HH|177|206|#1f78b4|WW domain
+EP00628_Pelagophyceae_sp_CCMP2097|CAMPEP_0184199746	531	RE|230|463|#a6cee3|Caspase domain	HH|71|99|#1f78b4|WW domain	HH|12|41|#1f78b4|WW domain
+EP00630_Chrysocystis_fragilis|CAMPEP_0197389510	350	RE|44|284|#a6cee3|Caspase domain
+EP00632_Arachnochrysis_sp_CCMP2950|CAMPEP_0185699858	485	RE|151|321|#a6cee3|Caspase domain	RE|20|134|#a6cee3|Caspase domain
+EP00633_Aureoumbra_lagunensis|CAMPEP_0197290336	478	RE|175|414|#a6cee3|Caspase domain	HH|61|90|#1f78b4|WW domain	HH|5|34|#1f78b4|WW domain
+EP00634_Sargassococcus_sp_CCMP2135|CAMPEP_0198644056	372	RE|162|364|#a6cee3|Caspase domain	RE|40|145|#a6cee3|Caspase domain
+EP00635_Sarcinochrysidales_sp_CCMP3193|CAMPEP_0118892004	1138	HH|151|180|#1f78b4|WW domain	HH|84|113|#1f78b4|WW domain	RE|241|478|#a6cee3|Caspase domain
+EP00652_Aphanomyces_astaci|XP_009837241.1	366	RE|66|354|#a6cee3|Caspase domain
+EP00653_Aphanomyces_invadans|XP_008865991.1	368	RE|68|356|#a6cee3|Caspase domain
+EP00654_Saprolegnia_diclina|XP_008618603.1	367	RE|66|355|#a6cee3|Caspase domain
+EP00655_Saprolegnia_parasitica|XP_012203931.1	392	RE|92|380|#a6cee3|Caspase domain
+EP00656_Telonema_subtile|TRINITY_DN9410_c0_g1_i1.p1	135	RE|6|109|#a6cee3|Caspase domain
+EP00658_Telonema_sp_P-2|TRINITY_DN19435_c0_g1_i3.p1	402	RE|153|311|#a6cee3|Caspase domain	RE|43|134|#a6cee3|Caspase domain
+EP00667_Euglena_gracilis|EG_transcript_5734	563	RE|274|515|#a6cee3|Caspase domain
+EP00668_Euglena_longa|GGOE01053618.1.p1	446	RE|156|397|#a6cee3|Caspase domain	TL|74|99|#ff7f00|Zn-finger in Ran binding protein and others
+EP00669_Euglena_mutabilis|TRINITY_DN16525_c0_g1_i1.p1	478	RE|267|474|#a6cee3|Caspase domain
+EP00670_Eutreptiella_gymnastica|CAMPEP_0174351064	585	RE|63|373|#a6cee3|Caspase domain
+EP00671_Bodo_saltans|CUG84145.1	457	RE|74|328|#a6cee3|Caspase domain
+EP00672_Neobodo_designis|CAMPEP_0174856780	370	RE|56|139|#a6cee3|Caspase domain	RE|160|319|#a6cee3|Caspase domain
+EP00673_Leishmania_infantum|XP_001468978.1	448	RE|63|309|#a6cee3|Caspase domain
+EP00674_Leishmania_major|XP_003722550.1	435	RE|63|309|#a6cee3|Caspase domain
+EP00675_Leptomonas_pyrrhocoris|XP_015664513.1	486	RE|76|332|#a6cee3|Caspase domain
+EP00676_Leptomonas_seymouri|KPI83348.1	364	RE|84|335|#a6cee3|Caspase domain
+EP00677_Phytomonas_sp_EM1|CCW62019.1	473	RE|66|314|#a6cee3|Caspase domain
+EP00678_Phytomonas_sp_Hart1|CCW69383.1	450	RE|45|293|#a6cee3|Caspase domain
+EP00679_Angomonas_deanei|EPY43713.1	414	RE|134|386|#a6cee3|Caspase domain
+EP00680_Strigomonas_culicis|EPY30100.1	336	RE|51|304|#a6cee3|Caspase domain
+EP00681_Trypanosoma_brucei|XP_011773876.1	347	RE|74|327|#a6cee3|Caspase domain
+EP00682_Trypanosoma_cruzi|XP_818074.1	358	RE|84|336|#a6cee3|Caspase domain
+EP00683_Trypanosoma_rangeli|RNF00747.1	357	RE|84|337|#a6cee3|Caspase domain
+EP00684_Trypanosoma_vivax|CCD19397.1	357	RE|84|338|#a6cee3|Caspase domain
+EP00689_Sawyeria_marylandensis|EC826264.1.p1	261	RE|16|252|#a6cee3|Caspase domain
+EP00691_Histiona_aroides|EC849116.1.p1	145	RE|6|144|#a6cee3|Caspase domain
+EP00696_Hemimastix_kukwesjijk|gnl|Hemi2|10854_TR3716_c0_g1_i1.p1	407	RE|28|252|#a6cee3|Caspase domain
+EP00698_Gefionella_okellyi|TRINITY_DN837_c0_g1_i1.p1	406	RE|8|241|#a6cee3|Caspase domain
+EP00708_Paratrimastix_pyriformis|GAFH01001352.1.p2	555	RE|29|196|#a6cee3|Caspase domain	RE|303|524|#a6cee3|Caspase domain
+EP00730_Choanoeca_flexa|TRINITY_DN8076_c0_g1_i2.p1	437	RE|152|431|#a6cee3|Caspase domain
+EP00731_Ephydatia_muelleri|Em0008g102a	337	RE|67|333|#a6cee3|Caspase domain
+EP00735_Rhodelphis_limneticus|TRINITY_DN4526_c0_g1__TRINITY_DN4526_c0_g1_i1__g.23178__m.23178	325	RE|17|313|#a6cee3|Caspase domain
+EP00737_Agarophyton_chilense|gb|GEZJ01001927.1|.p1	401	RE|96|394|#a6cee3|Caspase domain
+EP00738_Chloropicon_primus|QDZ18747.1	348	RE|58|337|#a6cee3|Caspase domain
+EP00740_Mantoniella_antarctica|CAMPEP_0181360190	646	RE|320|566|#a6cee3|Caspase domain
+EP00741_Cyanophora_paradoxa|tig00020675_g12670.t1	337	RE|75|326|#a6cee3|Caspase domain
+EP00742_Colponemidia_sp_Colp-10|GILJ01020805.1.p1	455	RE|36|291|#a6cee3|Caspase domain
+EP00743_Colponemidia_sp_Colp-15|GILK01004913.1.p1	858	OC|139|392|#b15928|Guanylate-binding protein, N-terminal domain	RE|648|854|#a6cee3|Caspase domain	GP|418|491|#a6cee3|Guanylate-binding protein, C-terminal domain
+EP00744_Colponema_vietnamica|GILI01008138.1.p1	495	RE|113|373|#a6cee3|Caspase domain
+EP00745_Piridium_sociabile|TRINITY_DN167773_c0_g1_i1.p1	413	RE|98|399|#a6cee3|Caspase domain
+EP00746_Dinoflagellata_sp_MGD|gnl|MRDRNA2_|MRDRNA2_72709_c0_seq2.p1	678	RE|595|678|#a6cee3|Caspase domain	RE|307|557|#a6cee3|Caspase domain	RE|28|277|#a6cee3|Caspase domain
+EP00747_Dinoflagellata_sp_TGD|gnl|TRDRNA2_|TRDRNA2_130187_c0_seq1.p1	681	RE|87|334|#a6cee3|Caspase domain	RE|362|611|#a6cee3|Caspase domain
+EP00751_Fragilariopsis_kerguelensis|CAMPEP_0170909120	368	RE|57|356|#a6cee3|Caspase domain
+EP00752_Nemacystus_decipiens|g9991.t1	366	RE|52|136|#a6cee3|Caspase domain	RE|156|313|#a6cee3|Caspase domain
+EP00754_Rhynchopus_humris|Rhum_TRINITY_DN15264_c5_g2__Rhum_TRINITY_DN15264_c5_g2_i1__g.149181__m.149181	493	RE|93|390|#a6cee3|Caspase domain
+EP00755_Sulcionema_specki|Sspe_Gene.4506__Locus_1483_Transcript_1_3_Confidence_0.500_Length_1440__g.4506__m.4506	479	RE|117|408|#a6cee3|Caspase domain
+EP00756_Hemistasia_phaeocysticola|Hpha_TRINITY_DN15191_c5_g1__TRINITY_DN15191_c5_g1_i1__g.128459__m.128459	543	RE|63|321|#a6cee3|Caspase domain
+EP00758_Cryptobia_borreli|Tbor_TRINITY_DN4154_c0_g1__TRINITY_DN4154_c0_g1_i1__g.26496__m.26496	409	RE|66|318|#a6cee3|Caspase domain
+EP00759_Prokinetoplastina_sp_PhF-6|PhF_6_TR2231|c0_g1_i3|m.3751	445	RE|85|338|#a6cee3|Caspase domain
+EP00760_Prokinetoplastina_sp_PhM-4|PhM_4_TR17878|c0_g1_i1|m.11048	394	RE|57|358|#a6cee3|Caspase domain
+EP00762_Andalucia_godoyi|ANDGO_06234.mRNA.1	988	RE|366|607|#a6cee3|Caspase domain	RE|731|973|#a6cee3|Caspase domain	RE|40|288|#a6cee3|Caspase domain

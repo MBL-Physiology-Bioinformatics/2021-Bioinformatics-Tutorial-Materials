@@ -1,0 +1,406 @@
+DATASET_DOMAINS
+SEPARATOR TAB
+DATASET_LABEL	Domains
+COLOR	#ffffff
+LEGEND_TITLE	Domains
+LEGEND_SHAPES	RE	HH	HV	EL	DI	TR	TL	PL	PR	PU	PD	OC	GP	RE	HH
+LEGEND_COLORS	#a6cee3	#1f78b4	#b2df8a	#33a02c	#fb9a99	#e31a1c	#fdbf6f	#ff7f00	#cab2d6	#6a3d9a	#ffff99	#b15928	#a6cee3	#1f78b4	#b2df8a
+LEGEND_LABELS	RFX DNA-binding domain	RFX1 transcription activation region	ARID/BRIGHT DNA binding domain	RFX5 N-terminal domain	Actin	Tubulin/FtsZ family, GTPase domain	Acyltransferase family	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	Tubulin C-terminal domain	Protein of unknown function (DUF2452)	Histone deacetylase domain	Zinc finger, C2H2 type	Poxvirus D5 protein-like	Lectin C-type domain	RFX5 DNA-binding domain
+MARGIN	25
+SHOW_DOMAIN_LABELS	0
+DATA
+EP00005_Dracoamoeba_jomungandri|CAMPEP_0174253376	386	RE|28|101|#a6cee3|RFX DNA-binding domain
+EP00005_Dracoamoeba_jomungandri|CAMPEP_0174277204	378	RE|61|134|#a6cee3|RFX DNA-binding domain
+EP00006_Acanthamoeba_castellanii|ELR17408	689	RE|6|83|#a6cee3|RFX DNA-binding domain
+EP00006_Acanthamoeba_castellanii|ELR19351	1000	RE|129|203|#a6cee3|RFX DNA-binding domain
+EP00006_Acanthamoeba_castellanii|ELR20822	1025	RE|69|144|#a6cee3|RFX DNA-binding domain
+EP00006_Acanthamoeba_castellanii|ELR20886	718	RE|61|134|#a6cee3|RFX DNA-binding domain
+EP00006_Acanthamoeba_castellanii|ELR25344	1007	RE|695|771|#a6cee3|RFX DNA-binding domain	RE|37|107|#a6cee3|RFX DNA-binding domain
+EP00012_Vannella_robusta|CAMPEP_0206188078	558	RE|6|81|#a6cee3|RFX DNA-binding domain
+EP00012_Vannella_robusta|CAMPEP_0206208122	558	RE|6|81|#a6cee3|RFX DNA-binding domain
+EP00020_Sapocribrum_chincoteaguense|CAMPEP_0170732236	1543	RE|197|273|#a6cee3|RFX DNA-binding domain
+EP00020_Sapocribrum_chincoteaguense|CAMPEP_0170745078	886	RE|128|204|#a6cee3|RFX DNA-binding domain
+EP00020_Sapocribrum_chincoteaguense|CAMPEP_0170752766	1531	RE|188|264|#a6cee3|RFX DNA-binding domain
+EP00027_Filamoeba_nolandi|CAMPEP_0168554680	730	RE|60|134|#a6cee3|RFX DNA-binding domain
+EP00031_Thecamonas_trahens|XP_013760106.1	490	RE|11|82|#a6cee3|RFX DNA-binding domain
+EP00035_Acanthoeca_spectabilis|m.42850	518	RE|80|155|#a6cee3|RFX DNA-binding domain
+EP00036_Acanthoeca_sp_10tr|CAMPEP_0206287234	550	RE|105|180|#a6cee3|RFX DNA-binding domain
+EP00037_Helgoeca_nana|m.126546	532	RE|86|161|#a6cee3|RFX DNA-binding domain
+EP00038_Savillea_parva|m.51138	524	RE|74|149|#a6cee3|RFX DNA-binding domain
+EP00039_Didymoeca_costata|m.83562	608	RE|79|153|#a6cee3|RFX DNA-binding domain
+EP00040_Diaphanoeca_grandis|m.74784	600	RE|93|168|#a6cee3|RFX DNA-binding domain
+EP00041_Stephanoeca_diplocostata|m.1323324	662	RE|109|184|#a6cee3|RFX DNA-binding domain
+EP00042_Codosiga_hollandica|m.161796	631	RE|223|298|#a6cee3|RFX DNA-binding domain
+EP00042_Codosiga_hollandica|m.640466	222	RE|97|170|#a6cee3|RFX DNA-binding domain
+EP00042_Codosiga_hollandica|m.650938	504	RE|350|409|#a6cee3|RFX DNA-binding domain
+EP00043_Microstomoeca_roanoka|m.174462	1044	RE|371|445|#a6cee3|RFX DNA-binding domain
+EP00043_Microstomoeca_roanoka|m.200350	684	RE|132|207|#a6cee3|RFX DNA-binding domain
+EP00043_Microstomoeca_roanoka|m.206299	579	RE|414|469|#a6cee3|RFX DNA-binding domain
+EP00043_Microstomoeca_roanoka|m.63716	639	RE|89|163|#a6cee3|RFX DNA-binding domain
+EP00044_Salpingoeca_rosetta|XP_004988564.1	738	RE|105|180|#a6cee3|RFX DNA-binding domain
+EP00044_Salpingoeca_rosetta|XP_004995448.1	942	RE|295|369|#a6cee3|RFX DNA-binding domain
+EP00044_Salpingoeca_rosetta|XP_004998505.1	1038	RE|376|432|#a6cee3|RFX DNA-binding domain
+EP00044_Salpingoeca_rosetta|XP_004998808.1	1207	RE|165|239|#a6cee3|RFX DNA-binding domain
+EP00045_Choanoeca_perplexa|m.128437	704	RE|176|251|#a6cee3|RFX DNA-binding domain
+EP00045_Choanoeca_perplexa|m.134009	750	RE|357|413|#a6cee3|RFX DNA-binding domain
+EP00045_Choanoeca_perplexa|m.155306	906	RE|352|426|#a6cee3|RFX DNA-binding domain
+EP00045_Choanoeca_perplexa|m.96303	821	RE|254|328|#a6cee3|RFX DNA-binding domain
+EP00046_Monosiga_brevicollis|XP_001743397.1	994	RE|392|465|#a6cee3|RFX DNA-binding domain
+EP00046_Monosiga_brevicollis|XP_001747893.1	1137	RE|369|423|#a6cee3|RFX DNA-binding domain
+EP00046_Monosiga_brevicollis|XP_001750349.1	788	RE|257|332|#a6cee3|RFX DNA-binding domain
+EP00047_Mylnosiga_fluctuans|m.134361	558	RE|85|160|#a6cee3|RFX DNA-binding domain
+EP00047_Mylnosiga_fluctuans|m.28241	924	RE|365|421|#a6cee3|RFX DNA-binding domain
+EP00048_Salpingoeca_helianthica|m.18589	774	RE|215|288|#a6cee3|RFX DNA-binding domain
+EP00048_Salpingoeca_helianthica|m.248146	1073	RE|320|395|#a6cee3|RFX DNA-binding domain
+EP00048_Salpingoeca_helianthica|m.254513	150	RE|77|149|#a6cee3|RFX DNA-binding domain
+EP00048_Salpingoeca_helianthica|m.35781	562	RE|84|159|#a6cee3|RFX DNA-binding domain
+EP00049_Salpingoeca_infusionum|m.116316	575	RE|110|185|#a6cee3|RFX DNA-binding domain
+EP00049_Salpingoeca_infusionum|m.235053	964	RE|362|419|#a6cee3|RFX DNA-binding domain
+EP00049_Salpingoeca_infusionum|m.26328	222	RE|117|190|#a6cee3|RFX DNA-binding domain
+EP00049_Salpingoeca_infusionum|m.42113	568	RE|58|132|#a6cee3|RFX DNA-binding domain
+EP00050_Salpingoeca_kvevrii|m.136531	500	RE|50|125|#a6cee3|RFX DNA-binding domain
+EP00050_Salpingoeca_kvevrii|m.165758	666	RE|342|398|#a6cee3|RFX DNA-binding domain
+EP00050_Salpingoeca_kvevrii|m.293764	748	RE|304|378|#a6cee3|RFX DNA-binding domain
+EP00050_Salpingoeca_kvevrii|m.315781	68	RE|23|68|#a6cee3|RFX DNA-binding domain
+EP00050_Salpingoeca_kvevrii|m.982	380	RE|1|35|#a6cee3|RFX DNA-binding domain
+EP00051_Salpingoeca_urceolata|m.4267	848	RE|442|517|#a6cee3|RFX DNA-binding domain
+EP00051_Salpingoeca_urceolata|m.490342	492	RE|12|87|#a6cee3|RFX DNA-binding domain
+EP00052_Salpingoeca_macrocollata|m.123185	215	RE|97|171|#a6cee3|RFX DNA-binding domain
+EP00052_Salpingoeca_macrocollata|m.177678	579	RE|108|183|#a6cee3|RFX DNA-binding domain
+EP00053_Salpingoeca_punica|m.104022	238	RE|85|157|#a6cee3|RFX DNA-binding domain
+EP00053_Salpingoeca_punica|m.107710	387	RE|85|155|#a6cee3|RFX DNA-binding domain
+EP00053_Salpingoeca_punica|m.226734	166	RE|113|164|#a6cee3|RFX DNA-binding domain
+EP00053_Salpingoeca_punica|m.26475	444	RE|28|102|#a6cee3|RFX DNA-binding domain
+EP00053_Salpingoeca_punica|m.57300	573	RE|31|106|#a6cee3|RFX DNA-binding domain
+EP00054_Salpingoeca_dolichothecata|m.46486	719	RE|100|175|#a6cee3|RFX DNA-binding domain
+EP00055_Hartaetosiga_balthica|m.141910	240	RE|24|100|#a6cee3|RFX DNA-binding domain
+EP00055_Hartaetosiga_balthica|m.15162	533	RE|39|114|#a6cee3|RFX DNA-binding domain
+EP00055_Hartaetosiga_balthica|m.27629	631	RE|365|423|#a6cee3|RFX DNA-binding domain
+EP00055_Hartaetosiga_balthica|m.65778	743	RE|232|306|#a6cee3|RFX DNA-binding domain
+EP00056_Hartaetosiga_gracilis|m.127079	311	RE|72|147|#a6cee3|RFX DNA-binding domain
+EP00056_Hartaetosiga_gracilis|m.24950	684	RE|174|248|#a6cee3|RFX DNA-binding domain
+EP00056_Hartaetosiga_gracilis|m.92550	636	RE|366|424|#a6cee3|RFX DNA-binding domain
+EP00056_Hartaetosiga_gracilis|m.985	991	RE|126|202|#a6cee3|RFX DNA-binding domain
+EP00057_Strongylocentrotus_purpuratus|XP_003723712.1	856	RE|76|151|#a6cee3|RFX DNA-binding domain
+EP00057_Strongylocentrotus_purpuratus|XP_011667732.1	728	RE|209|284|#a6cee3|RFX DNA-binding domain
+EP00057_Strongylocentrotus_purpuratus|XP_011667757.1	702	RE|183|258|#a6cee3|RFX DNA-binding domain
+EP00057_Strongylocentrotus_purpuratus|XP_011671152.1	830	RE|76|151|#a6cee3|RFX DNA-binding domain
+EP00057_Strongylocentrotus_purpuratus|XP_790942.3	720	RE|201|276|#a6cee3|RFX DNA-binding domain
+EP00058_Branchiostoma_floridae|XP_002586651.1	730	RE|128|205|#a6cee3|RFX DNA-binding domain
+EP00058_Branchiostoma_floridae|XP_002588025.1	957	RE|29|74|#a6cee3|RFX DNA-binding domain	RE|714|827|#1f78b4|Lectin C-type domain
+EP00058_Branchiostoma_floridae|XP_002603221.1	197	EL|3|36|#33a02c|RFX5 N-terminal domain	RE|43|119|#a6cee3|RFX DNA-binding domain
+EP00058_Branchiostoma_floridae|XP_002604210.1	153	RE|47|110|#a6cee3|RFX DNA-binding domain
+EP00058_Branchiostoma_floridae|XP_002611120.1	434	RE|15|90|#a6cee3|RFX DNA-binding domain
+EP00059_Ciona_intestinalis|NP_001071807.1	803	RE|243|318|#a6cee3|RFX DNA-binding domain
+EP00059_Ciona_intestinalis|XP_018673170.1	1197	RE|590|672|#a6cee3|RFX DNA-binding domain	HV|10|95|#b2df8a|ARID/BRIGHT DNA binding domain
+EP00059_Ciona_intestinalis|XP_026690015.1	717	RE|95|171|#a6cee3|RFX DNA-binding domain
+EP00059_Ciona_intestinalis|XP_026690016.1	695	RE|73|149|#a6cee3|RFX DNA-binding domain
+EP00059_Ciona_intestinalis|XP_026695891.1	650	RE|110|185|#a6cee3|RFX DNA-binding domain
+EP00060_Petromyzon_marinus|ENSPMAP00000002500.1	662	RE|185|259|#a6cee3|RFX DNA-binding domain	HH|2|137|#1f78b4|RFX1 transcription activation region
+EP00060_Petromyzon_marinus|ENSPMAP00000005548.1	181	RE|14|92|#a6cee3|RFX DNA-binding domain
+EP00060_Petromyzon_marinus|ENSPMAP00000009131.1	1529	RE|437|517|#a6cee3|RFX DNA-binding domain
+EP00060_Petromyzon_marinus|GENSCAN00000023044	622	RE|195|270|#a6cee3|RFX DNA-binding domain	HH|8|173|#1f78b4|RFX1 transcription activation region
+EP00060_Petromyzon_marinus|GENSCAN00000026664	1817	RE|556|636|#a6cee3|RFX DNA-binding domain
+EP00062_Callorhinchus_milii|gi|632950575|ref|XP_007890797.1|	744	RE|177|251|#a6cee3|RFX DNA-binding domain	HH|14|128|#1f78b4|RFX1 transcription activation region
+EP00062_Callorhinchus_milii|gi|632955724|ref|XP_007893604.1|	734	RE|61|136|#a6cee3|RFX DNA-binding domain
+EP00062_Callorhinchus_milii|gi|632955726|ref|XP_007893605.1|	733	RE|61|136|#a6cee3|RFX DNA-binding domain
+EP00062_Callorhinchus_milii|gi|632977338|ref|XP_007905290.1|	948	RE|410|485|#a6cee3|RFX DNA-binding domain	HH|262|383|#1f78b4|RFX1 transcription activation region	HH|110|177|#1f78b4|RFX1 transcription activation region
+EP00062_Callorhinchus_milii|gi|632984936|ref|XP_007909399.1|	741	HH|4|163|#1f78b4|RFX1 transcription activation region	RE|209|283|#a6cee3|RFX DNA-binding domain
+EP00063_Salmo_salar|XP_013980835.1	736	RE|60|135|#a6cee3|RFX DNA-binding domain
+EP00063_Salmo_salar|XP_013980836.1	723	RE|60|135|#a6cee3|RFX DNA-binding domain
+EP00063_Salmo_salar|XP_013980837.1	707	RE|31|106|#a6cee3|RFX DNA-binding domain
+EP00063_Salmo_salar|XP_013993764.1	698	RE|185|259|#a6cee3|RFX DNA-binding domain	HH|29|135|#1f78b4|RFX1 transcription activation region
+EP00063_Salmo_salar|XP_014003700.1	734	RE|60|135|#a6cee3|RFX DNA-binding domain
+EP00064_Thunnus_orientalis|superscaffoldBa00001124_g9077	1387	HH|689|781|#1f78b4|RFX1 transcription activation region	RE|827|901|#a6cee3|RFX DNA-binding domain	OC|537|560|#b15928|Zinc finger, C2H2 type	OC|596|620|#b15928|Zinc finger, C2H2 type
+EP00064_Thunnus_orientalis|superscaffoldBa00001438_g10554	934	RE|454|527|#a6cee3|RFX DNA-binding domain	HH|127|185|#1f78b4|RFX1 transcription activation region	HH|276|379|#1f78b4|RFX1 transcription activation region
+EP00064_Thunnus_orientalis|superscaffoldBa00002106_g13199	681	RE|153|228|#a6cee3|RFX DNA-binding domain	HH|35|133|#1f78b4|RFX1 transcription activation region
+EP00064_Thunnus_orientalis|superscaffoldBa00003315_g16639	763	RE|69|144|#a6cee3|RFX DNA-binding domain
+EP00064_Thunnus_orientalis|superscaffoldBa00006508_g21612	401	RE|53|129|#a6cee3|RFX DNA-binding domain
+EP00065_Mola_mola|ENSMMOP00000006508.1	880	HH|128|283|#1f78b4|RFX1 transcription activation region	RE|339|414|#a6cee3|RFX DNA-binding domain
+EP00065_Mola_mola|ENSMMOP00000006512.1	849	HH|107|259|#1f78b4|RFX1 transcription activation region	RE|315|390|#a6cee3|RFX DNA-binding domain
+EP00065_Mola_mola|ENSMMOP00000008893.1	700	RE|179|253|#a6cee3|RFX DNA-binding domain	HH|35|133|#1f78b4|RFX1 transcription activation region
+EP00065_Mola_mola|ENSMMOP00000012243.1	723	RE|154|229|#a6cee3|RFX DNA-binding domain	HH|16|134|#1f78b4|RFX1 transcription activation region
+EP00065_Mola_mola|ENSMMOP00000028295.1	826	RE|292|367|#a6cee3|RFX DNA-binding domain	HH|122|268|#1f78b4|RFX1 transcription activation region
+EP00066_Takifugu_rubripes|XP_003965551.1	757	RE|177|251|#a6cee3|RFX DNA-binding domain	HH|26|131|#1f78b4|RFX1 transcription activation region
+EP00066_Takifugu_rubripes|XP_003978125.1	736	RE|209|283|#a6cee3|RFX DNA-binding domain	HH|4|163|#1f78b4|RFX1 transcription activation region
+EP00066_Takifugu_rubripes|XP_011617675.1	735	RE|209|283|#a6cee3|RFX DNA-binding domain	HH|4|163|#1f78b4|RFX1 transcription activation region
+EP00066_Takifugu_rubripes|XP_011617676.1	711	RE|183|258|#a6cee3|RFX DNA-binding domain	HH|4|163|#1f78b4|RFX1 transcription activation region
+EP00066_Takifugu_rubripes|XP_011617677.1	706	RE|179|253|#a6cee3|RFX DNA-binding domain	HH|35|133|#1f78b4|RFX1 transcription activation region
+EP00067_Danio_rerio|NP_991275.1	735	RE|60|135|#a6cee3|RFX DNA-binding domain
+EP00067_Danio_rerio|XP_005166894.1	709	RE|178|253|#a6cee3|RFX DNA-binding domain	HH|4|159|#1f78b4|RFX1 transcription activation region
+EP00067_Danio_rerio|XP_021333071.1	822	RE|283|358|#a6cee3|RFX DNA-binding domain	HH|107|222|#1f78b4|RFX1 transcription activation region
+EP00067_Danio_rerio|XP_021333074.1	821	RE|282|357|#a6cee3|RFX DNA-binding domain	HH|107|221|#1f78b4|RFX1 transcription activation region
+EP00067_Danio_rerio|XP_021334867.1	740	RE|163|238|#a6cee3|RFX DNA-binding domain	HH|32|141|#1f78b4|RFX1 transcription activation region
+EP00068_Latimeria_chalumnae|XP_005990889.1	734	RE|60|135|#a6cee3|RFX DNA-binding domain
+EP00068_Latimeria_chalumnae|XP_005990891.1	718	RE|60|135|#a6cee3|RFX DNA-binding domain
+EP00068_Latimeria_chalumnae|XP_014340431.1	737	RE|215|289|#a6cee3|RFX DNA-binding domain	HH|14|169|#1f78b4|RFX1 transcription activation region
+EP00068_Latimeria_chalumnae|XP_014340432.1	728	RE|206|280|#a6cee3|RFX DNA-binding domain	HH|5|160|#1f78b4|RFX1 transcription activation region
+EP00068_Latimeria_chalumnae|XP_014348518.1	864	HH|157|248|#1f78b4|RFX1 transcription activation region	RE|297|371|#a6cee3|RFX DNA-binding domain
+EP00069_Balaena_mysticetus|bmy_06837T0	992	RE|225|294|#a6cee3|RFX DNA-binding domain
+EP00069_Balaena_mysticetus|bmy_06927T0	468	RE|23|97|#a6cee3|RFX DNA-binding domain
+EP00069_Balaena_mysticetus|bmy_09833T0	1456	RE|373|453|#a6cee3|RFX DNA-binding domain
+EP00069_Balaena_mysticetus|bmy_11066T0	89	RE|1|54|#a6cee3|RFX DNA-binding domain
+EP00069_Balaena_mysticetus|bmy_11116T0	657	RE|140|216|#a6cee3|RFX DNA-binding domain	EL|77|135|#33a02c|RFX5 N-terminal domain	HH|447|657|#b2df8a|RFX5 DNA-binding domain
+EP00070_Physeter_macrocephalus|XP_023983143.1	735	RE|60|135|#a6cee3|RFX DNA-binding domain
+EP00070_Physeter_macrocephalus|XP_028349731.1	693	RE|217|291|#a6cee3|RFX DNA-binding domain	HH|59|168|#1f78b4|RFX1 transcription activation region
+EP00070_Physeter_macrocephalus|XP_028349732.1	644	HH|58|168|#1f78b4|RFX1 transcription activation region	RE|217|291|#a6cee3|RFX DNA-binding domain
+EP00070_Physeter_macrocephalus|XP_028355875.1	653	RE|128|203|#a6cee3|RFX DNA-binding domain	HH|1|109|#1f78b4|RFX1 transcription activation region
+EP00070_Physeter_macrocephalus|XP_028355879.1	583	RE|154|228|#a6cee3|RFX DNA-binding domain	HH|1|109|#1f78b4|RFX1 transcription activation region
+EP00071_Canis_lupus|XP_003431559.1	744	RE|69|144|#a6cee3|RFX DNA-binding domain
+EP00071_Canis_lupus|XP_005633052.1	702	RE|178|253|#a6cee3|RFX DNA-binding domain	HH|4|159|#1f78b4|RFX1 transcription activation region
+EP00071_Canis_lupus|XP_022277384.1	765	HH|24|134|#1f78b4|RFX1 transcription activation region	RE|157|232|#a6cee3|RFX DNA-binding domain
+EP00071_Canis_lupus|XP_022280222.1	743	RE|60|135|#a6cee3|RFX DNA-binding domain
+EP00071_Canis_lupus|XP_022280223.1	714	RE|31|106|#a6cee3|RFX DNA-binding domain
+EP00072_Mus_musculus|NP_001020089.1	735	RE|60|135|#a6cee3|RFX DNA-binding domain
+EP00072_Mus_musculus|NP_033082.1	692	RE|168|243|#a6cee3|RFX DNA-binding domain	HH|4|149|#1f78b4|RFX1 transcription activation region
+EP00072_Mus_musculus|XP_006514176.1	745	RE|70|145|#a6cee3|RFX DNA-binding domain
+EP00072_Mus_musculus|XP_006514177.1	744	RE|70|145|#a6cee3|RFX DNA-binding domain
+EP00072_Mus_musculus|XP_006526847.1	724	RE|157|232|#a6cee3|RFX DNA-binding domain	HH|25|134|#1f78b4|RFX1 transcription activation region
+EP00073_Rattus_norvegicus|NP_001100347.1	692	RE|168|243|#a6cee3|RFX DNA-binding domain	HH|5|149|#1f78b4|RFX1 transcription activation region
+EP00073_Rattus_norvegicus|XP_006244375.1	717	HH|5|149|#1f78b4|RFX1 transcription activation region	RE|194|268|#a6cee3|RFX DNA-binding domain
+EP00073_Rattus_norvegicus|XP_017444938.1	750	RE|183|258|#a6cee3|RFX DNA-binding domain	HH|50|160|#1f78b4|RFX1 transcription activation region
+EP00073_Rattus_norvegicus|XP_017444940.1	747	RE|181|255|#a6cee3|RFX DNA-binding domain	HH|32|132|#1f78b4|RFX1 transcription activation region
+EP00073_Rattus_norvegicus|XP_017444941.1	498	HH|50|160|#1f78b4|RFX1 transcription activation region	RE|209|283|#a6cee3|RFX DNA-binding domain
+EP00074_Homo_sapiens|NP_001193620.1	744	RE|69|144|#a6cee3|RFX DNA-binding domain
+EP00074_Homo_sapiens|NP_602309.1	698	RE|173|248|#a6cee3|RFX DNA-binding domain	HH|4|154|#1f78b4|RFX1 transcription activation region
+EP00074_Homo_sapiens|NP_998759.1	735	RE|60|135|#a6cee3|RFX DNA-binding domain
+EP00074_Homo_sapiens|XP_016870490.1	724	HH|25|134|#1f78b4|RFX1 transcription activation region	RE|157|232|#a6cee3|RFX DNA-binding domain
+EP00074_Homo_sapiens|XP_024303401.1	745	RE|157|232|#a6cee3|RFX DNA-binding domain	HH|25|134|#1f78b4|RFX1 transcription activation region
+EP00075_Anas_platyrhynchos|XP_005029258.1	715	HH|14|170|#1f78b4|RFX1 transcription activation region	RE|189|264|#a6cee3|RFX DNA-binding domain
+EP00075_Anas_platyrhynchos|XP_005029259.1	711	HH|14|170|#1f78b4|RFX1 transcription activation region	RE|189|264|#a6cee3|RFX DNA-binding domain
+EP00075_Anas_platyrhynchos|XP_005029261.1	682	HH|14|137|#1f78b4|RFX1 transcription activation region	RE|157|231|#a6cee3|RFX DNA-binding domain
+EP00075_Anas_platyrhynchos|XP_027305556.1	735	RE|60|135|#a6cee3|RFX DNA-binding domain
+EP00075_Anas_platyrhynchos|XP_027305565.1	734	RE|60|135|#a6cee3|RFX DNA-binding domain
+EP00076_Gallus_gallus|XP_004937870.1	735	RE|60|135|#a6cee3|RFX DNA-binding domain
+EP00076_Gallus_gallus|XP_015135692.1	724	HH|25|134|#1f78b4|RFX1 transcription activation region	RE|157|232|#a6cee3|RFX DNA-binding domain
+EP00076_Gallus_gallus|XP_015155329.1	704	HH|8|163|#1f78b4|RFX1 transcription activation region	RE|182|257|#a6cee3|RFX DNA-binding domain
+EP00076_Gallus_gallus|XP_015155330.1	671	HH|8|130|#1f78b4|RFX1 transcription activation region	RE|150|224|#a6cee3|RFX DNA-binding domain
+EP00076_Gallus_gallus|XP_015155331.1	646	RE|125|199|#a6cee3|RFX DNA-binding domain	HH|8|127|#1f78b4|RFX1 transcription activation region
+EP00077_Pelodiscus_sinensis|XP_006110873.1	724	RE|157|232|#a6cee3|RFX DNA-binding domain	HH|25|134|#1f78b4|RFX1 transcription activation region
+EP00077_Pelodiscus_sinensis|XP_006138048.1	735	RE|60|135|#a6cee3|RFX DNA-binding domain
+EP00077_Pelodiscus_sinensis|XP_006138049.1	734	RE|60|135|#a6cee3|RFX DNA-binding domain
+EP00077_Pelodiscus_sinensis|XP_006138050.1	706	RE|31|106|#a6cee3|RFX DNA-binding domain
+EP00077_Pelodiscus_sinensis|XP_025037355.1	658	HH|25|134|#1f78b4|RFX1 transcription activation region	RE|183|257|#a6cee3|RFX DNA-binding domain
+EP00078_Anolis_carolinensis|XP_003216537.1	749	RE|183|257|#a6cee3|RFX DNA-binding domain	HH|28|134|#1f78b4|RFX1 transcription activation region
+EP00078_Anolis_carolinensis|XP_003220937.1	745	RE|71|146|#a6cee3|RFX DNA-binding domain
+EP00078_Anolis_carolinensis|XP_008101931.1	1039	HH|276|428|#1f78b4|RFX1 transcription activation region	HH|212|269|#1f78b4|RFX1 transcription activation region	RE|497|572|#a6cee3|RFX DNA-binding domain
+EP00078_Anolis_carolinensis|XP_008101932.1	1038	RE|496|571|#a6cee3|RFX DNA-binding domain	HH|289|427|#1f78b4|RFX1 transcription activation region	HH|212|266|#1f78b4|RFX1 transcription activation region
+EP00078_Anolis_carolinensis|XP_008101933.1	1007	RE|465|540|#a6cee3|RFX DNA-binding domain	HH|212|266|#1f78b4|RFX1 transcription activation region	HH|262|396|#1f78b4|RFX1 transcription activation region
+EP00079_Xenopus_tropicalis|NP_001263620.1	749	RE|183|257|#a6cee3|RFX DNA-binding domain	HH|25|134|#1f78b4|RFX1 transcription activation region
+EP00079_Xenopus_tropicalis|XP_012820271.1	784	RE|209|284|#a6cee3|RFX DNA-binding domain	HH|77|186|#1f78b4|RFX1 transcription activation region
+EP00079_Xenopus_tropicalis|XP_012820278.1	757	RE|183|257|#a6cee3|RFX DNA-binding domain	HH|25|134|#1f78b4|RFX1 transcription activation region
+EP00079_Xenopus_tropicalis|XP_012820288.1	757	RE|183|257|#a6cee3|RFX DNA-binding domain	HH|25|134|#1f78b4|RFX1 transcription activation region
+EP00079_Xenopus_tropicalis|XP_017949734.1	749	RE|183|257|#a6cee3|RFX DNA-binding domain	HH|25|134|#1f78b4|RFX1 transcription activation region
+EP00080_Pristionchus_pacificus|PDM84903.1	3612	DI|635|1014|#fb9a99|Actin	TR|36|243|#e31a1c|Tubulin/FtsZ family, GTPase domain	TL|1713|2083|#fdbf6f|Acyltransferase family	PL|1122|1186|#ff7f00|RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	PL|1035|1105|#ff7f00|RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	HV|2203|2288|#b2df8a|ARID/BRIGHT DNA binding domain	PR|293|422|#cab2d6|Tubulin C-terminal domain	PU|511|639|#6a3d9a|Protein of unknown function (DUF2452)	PD|3215|3505|#ffff99|Histone deacetylase domain
+EP00081_Caenorhabditis_elegans|NP_001022139.1	780	RE|234|308|#a6cee3|RFX DNA-binding domain
+EP00081_Caenorhabditis_elegans|NP_001022140.1	805	RE|259|333|#a6cee3|RFX DNA-binding domain
+EP00081_Caenorhabditis_elegans|NP_001254236.1	661	RE|115|189|#a6cee3|RFX DNA-binding domain
+EP00081_Caenorhabditis_elegans|NP_001254237.1	622	RE|76|150|#a6cee3|RFX DNA-binding domain
+EP00081_Caenorhabditis_elegans|NP_001293485.1	638	RE|92|166|#a6cee3|RFX DNA-binding domain
+EP00082_Ixodes_scapularis|XP_002407060.1	1107	RE|106|161|#a6cee3|RFX DNA-binding domain
+EP00082_Ixodes_scapularis|XP_002411177.1	487	RE|1|74|#a6cee3|RFX DNA-binding domain
+EP00082_Ixodes_scapularis|XP_002416101.1	1271	RE|387|466|#a6cee3|RFX DNA-binding domain
+EP00083_Stegodyphus_mimosarum|KFM57109.1	498	RE|311|386|#a6cee3|RFX DNA-binding domain
+EP00083_Stegodyphus_mimosarum|KFM61142.1	345	RE|245|320|#a6cee3|RFX DNA-binding domain
+EP00083_Stegodyphus_mimosarum|KFM65036.1	170	RE|1|29|#a6cee3|RFX DNA-binding domain
+EP00083_Stegodyphus_mimosarum|KFM80157.1	1259	RE|158|237|#a6cee3|RFX DNA-binding domain
+EP00084_Strigamia_maritima|SMAR001902-PA	724	RE|38|114|#a6cee3|RFX DNA-binding domain
+EP00084_Strigamia_maritima|SMAR011019-PA	1342	HV|19|103|#b2df8a|ARID/BRIGHT DNA binding domain	RE|517|582|#a6cee3|RFX DNA-binding domain
+EP00084_Strigamia_maritima|SMAR011053-PA	784	RE|234|309|#a6cee3|RFX DNA-binding domain
+EP00084_Strigamia_maritima|SMAR011197-PA	715	RE|52|107|#a6cee3|RFX DNA-binding domain
+EP00084_Strigamia_maritima|SMAR012474-PA	458	RE|13|87|#a6cee3|RFX DNA-binding domain
+EP00085_Daphnia_pulex|EFX67100.1	251	RE|55|130|#a6cee3|RFX DNA-binding domain
+EP00085_Daphnia_pulex|EFX84182.1	613	RE|74|148|#a6cee3|RFX DNA-binding domain
+EP00085_Daphnia_pulex|EFX87484.1	471	RE|8|83|#a6cee3|RFX DNA-binding domain
+EP00086_Labidocera_madurae|GFWO01021780.1.p1	240	RE|186|238|#a6cee3|RFX DNA-binding domain
+EP00086_Labidocera_madurae|GFWO01021781.1.p1	527	RE|1|72|#a6cee3|RFX DNA-binding domain
+EP00086_Labidocera_madurae|GFWO01021782.1.p1	530	RE|1|72|#a6cee3|RFX DNA-binding domain
+EP00086_Labidocera_madurae|GFWO01071758.1.p1	903	RE|103|179|#a6cee3|RFX DNA-binding domain
+EP00086_Labidocera_madurae|GFWO01071759.1.p1	903	RE|103|179|#a6cee3|RFX DNA-binding domain
+EP00087_Eurytemora_affinis|XP_023331865.1	707	RE|169|243|#a6cee3|RFX DNA-binding domain
+EP00087_Eurytemora_affinis|XP_023341341.1	1621	HV|15|101|#b2df8a|ARID/BRIGHT DNA binding domain	RE|607|684|#a6cee3|RFX DNA-binding domain
+EP00087_Eurytemora_affinis|XP_023341344.1	1609	HV|15|101|#b2df8a|ARID/BRIGHT DNA binding domain	RE|607|684|#a6cee3|RFX DNA-binding domain
+EP00087_Eurytemora_affinis|XP_023341345.1	1573	HV|15|101|#b2df8a|ARID/BRIGHT DNA binding domain	RE|607|684|#a6cee3|RFX DNA-binding domain
+EP00087_Eurytemora_affinis|XP_023346916.1	311	RE|101|177|#a6cee3|RFX DNA-binding domain
+EP00088_Acartia_fossae|TRINITY_DN46408_c0_g1_i1.p1	122	RE|13|89|#a6cee3|RFX DNA-binding domain
+EP00088_Acartia_fossae|TRINITY_DN79129_c0_g1_i1.p1	251	RE|146|223|#a6cee3|RFX DNA-binding domain
+EP00089_Calanus_finmarchicus|GAXK01126119.1.p1	273	RE|10|85|#a6cee3|RFX DNA-binding domain
+EP00089_Calanus_finmarchicus|GAXK01154936.1.p1	741	RE|179|254|#a6cee3|RFX DNA-binding domain
+EP00089_Calanus_finmarchicus|GAXK01154937.1.p1	349	RE|179|254|#a6cee3|RFX DNA-binding domain
+EP00089_Calanus_finmarchicus|GAXK01158126.1.p1	1055	EL|55|86|#33a02c|RFX5 N-terminal domain	RE|108|183|#a6cee3|RFX DNA-binding domain
+EP00089_Calanus_finmarchicus|GAXK01158128.1.p1	1055	EL|55|86|#33a02c|RFX5 N-terminal domain	RE|108|183|#a6cee3|RFX DNA-binding domain
+EP00090_Calanus_glacialis|TRINITY_DN12104_c0_g1_i1.p1	1058	EL|55|86|#33a02c|RFX5 N-terminal domain	RE|108|183|#a6cee3|RFX DNA-binding domain
+EP00090_Calanus_glacialis|TRINITY_DN12104_c0_g1_i2.p1	1054	EL|55|86|#33a02c|RFX5 N-terminal domain	RE|108|183|#a6cee3|RFX DNA-binding domain
+EP00090_Calanus_glacialis|TRINITY_DN2933_c0_g1_i1.p1	1648	HV|15|101|#b2df8a|ARID/BRIGHT DNA binding domain	RE|621|678|#a6cee3|RFX DNA-binding domain
+EP00090_Calanus_glacialis|TRINITY_DN7661_c0_g1_i1.p1	741	RE|179|254|#a6cee3|RFX DNA-binding domain
+EP00092_Neocalanus_flemingeri|GFUD01014666.1.p1	1046	EL|55|86|#33a02c|RFX5 N-terminal domain	RE|108|183|#a6cee3|RFX DNA-binding domain
+EP00092_Neocalanus_flemingeri|GFUD01017788.1.p1	1046	EL|55|86|#33a02c|RFX5 N-terminal domain	RE|108|183|#a6cee3|RFX DNA-binding domain
+EP00092_Neocalanus_flemingeri|GFUD01017789.1.p1	1046	EL|55|86|#33a02c|RFX5 N-terminal domain	RE|108|183|#a6cee3|RFX DNA-binding domain
+EP00092_Neocalanus_flemingeri|GFUD01031398.1.p1	1046	EL|55|86|#33a02c|RFX5 N-terminal domain	RE|108|183|#a6cee3|RFX DNA-binding domain
+EP00092_Neocalanus_flemingeri|GFUD01121055.1.p1	1046	EL|55|86|#33a02c|RFX5 N-terminal domain	RE|108|183|#a6cee3|RFX DNA-binding domain
+EP00093_Oithona_nana|07847.XXX_144177_142809_1	239	RE|10|85|#a6cee3|RFX DNA-binding domain
+EP00093_Oithona_nana|12352.XXX_7554_1781_1	1308	HV|15|101|#b2df8a|ARID/BRIGHT DNA binding domain	RE|722|802|#a6cee3|RFX DNA-binding domain
+EP00094_Tigriopus_californicus|TCALIF_05447-PA	365	RE|123|198|#a6cee3|RFX DNA-binding domain
+EP00094_Tigriopus_californicus|TCALIF_05646-PA	979	RE|189|265|#a6cee3|RFX DNA-binding domain
+EP00094_Tigriopus_californicus|TCALIF_07748-PA	855	RE|256|331|#a6cee3|RFX DNA-binding domain
+EP00095_Tigriopus_kingsejongensis|maker-scaffold1062_size65571-snap-gene-0.13	630	RE|160|235|#a6cee3|RFX DNA-binding domain
+EP00095_Tigriopus_kingsejongensis|maker-scaffold247_size239117-snap-gene-1.22	1516	HV|15|101|#b2df8a|ARID/BRIGHT DNA binding domain
+EP00095_Tigriopus_kingsejongensis|maker-scaffold531_size145796-snap-gene-0.20	676	RE|242|317|#a6cee3|RFX DNA-binding domain
+EP00096_Caligus_rogercresseyi|TRINITY_DN4406_c0_g2_i1.p1	1234	HV|15|101|#b2df8a|ARID/BRIGHT DNA binding domain
+EP00097_Lepeophtheirus_salmonis|EMLSAP00000001117	508	RE|144|173|#a6cee3|RFX DNA-binding domain
+EP00097_Lepeophtheirus_salmonis|EMLSAP00000002742	443	EL|22|63|#33a02c|RFX5 N-terminal domain	RE|83|158|#a6cee3|RFX DNA-binding domain
+EP00097_Lepeophtheirus_salmonis|EMLSAP00000003044	666	RE|213|288|#a6cee3|RFX DNA-binding domain
+EP00098_Tribolium_castaneum|XP_008191939.1	1471	RE|612|666|#a6cee3|RFX DNA-binding domain	HV|16|101|#b2df8a|ARID/BRIGHT DNA binding domain
+EP00098_Tribolium_castaneum|XP_008195754.1	1009	RE|112|185|#a6cee3|RFX DNA-binding domain
+EP00098_Tribolium_castaneum|XP_015834558.1	1520	RE|559|613|#a6cee3|RFX DNA-binding domain
+EP00098_Tribolium_castaneum|XP_015834559.1	1506	RE|612|666|#a6cee3|RFX DNA-binding domain	HV|16|101|#b2df8a|ARID/BRIGHT DNA binding domain
+EP00098_Tribolium_castaneum|XP_015839097.1	755	RE|254|329|#a6cee3|RFX DNA-binding domain
+EP00099_Drosophila_melanogaster|NP_001097738.2	889	RE|362|437|#a6cee3|RFX DNA-binding domain
+EP00099_Drosophila_melanogaster|NP_001247021.1	911	RE|384|459|#a6cee3|RFX DNA-binding domain
+EP00099_Drosophila_melanogaster|NP_001247022.2	860	RE|333|408|#a6cee3|RFX DNA-binding domain
+EP00099_Drosophila_melanogaster|NP_001262464.1	882	RE|355|430|#a6cee3|RFX DNA-binding domain
+EP00099_Drosophila_melanogaster|NP_649999.2	897	RE|370|445|#a6cee3|RFX DNA-binding domain
+EP00100_Culex_quinquefasciatus|XP_001845597.1	626	RE|172|247|#a6cee3|RFX DNA-binding domain
+EP00100_Culex_quinquefasciatus|XP_001847977.1	286	RE|82|156|#a6cee3|RFX DNA-binding domain
+EP00101_Apis_mellifera|XP_006564647.1	853	RE|358|434|#a6cee3|RFX DNA-binding domain
+EP00101_Apis_mellifera|XP_006564649.1	840	RE|345|421|#a6cee3|RFX DNA-binding domain
+EP00101_Apis_mellifera|XP_006564650.1	689	RE|194|270|#a6cee3|RFX DNA-binding domain
+EP00101_Apis_mellifera|XP_006564651.1	689	RE|194|270|#a6cee3|RFX DNA-binding domain
+EP00101_Apis_mellifera|XP_026298083.1	815	RE|320|396|#a6cee3|RFX DNA-binding domain
+EP00102_Acyrthosiphon_pisum|XP_001943107.2	763	RE|266|341|#a6cee3|RFX DNA-binding domain
+EP00102_Acyrthosiphon_pisum|XP_003243416.1	780	RE|283|358|#a6cee3|RFX DNA-binding domain
+EP00102_Acyrthosiphon_pisum|XP_008181418.1	779	RE|282|357|#a6cee3|RFX DNA-binding domain
+EP00102_Acyrthosiphon_pisum|XP_008181419.1	733	RE|236|311|#a6cee3|RFX DNA-binding domain
+EP00102_Acyrthosiphon_pisum|XP_016658600.1	588	RE|95|170|#a6cee3|RFX DNA-binding domain
+EP00103_Capitella_teleta|ELT87881.1	404	RE|1|71|#a6cee3|RFX DNA-binding domain
+EP00103_Capitella_teleta|ELT92343.1	816	RE|68|143|#a6cee3|RFX DNA-binding domain
+EP00103_Capitella_teleta|ELT92344.1	479	RE|43|115|#a6cee3|RFX DNA-binding domain	RE|335|407|#a6cee3|RFX DNA-binding domain
+EP00103_Capitella_teleta|ELT97878.1	622	RE|88|162|#a6cee3|RFX DNA-binding domain
+EP00103_Capitella_teleta|ELU02782.1	495	RE|62|137|#a6cee3|RFX DNA-binding domain
+EP00104_Lingula_anatina|XP_013412050.1	769	HH|21|137|#1f78b4|RFX1 transcription activation region	RE|192|266|#a6cee3|RFX DNA-binding domain
+EP00104_Lingula_anatina|XP_013412051.1	765	RE|188|262|#a6cee3|RFX DNA-binding domain	HH|18|133|#1f78b4|RFX1 transcription activation region
+EP00104_Lingula_anatina|XP_013412052.1	754	RE|176|251|#a6cee3|RFX DNA-binding domain	HH|21|138|#1f78b4|RFX1 transcription activation region
+EP00104_Lingula_anatina|XP_013412054.1	753	RE|176|250|#a6cee3|RFX DNA-binding domain
+EP00104_Lingula_anatina|XP_013412055.1	753	RE|175|250|#a6cee3|RFX DNA-binding domain	HH|21|137|#1f78b4|RFX1 transcription activation region
+EP00105_Crassostrea_gigas|XP_011436649.1	747	RE|171|246|#a6cee3|RFX DNA-binding domain
+EP00105_Crassostrea_gigas|XP_011436652.1	744	RE|171|246|#a6cee3|RFX DNA-binding domain
+EP00105_Crassostrea_gigas|XP_011436653.1	741	RE|165|240|#a6cee3|RFX DNA-binding domain
+EP00105_Crassostrea_gigas|XP_011436654.1	732	RE|156|231|#a6cee3|RFX DNA-binding domain
+EP00105_Crassostrea_gigas|XP_011450896.1	684	RE|102|176|#a6cee3|RFX DNA-binding domain
+EP00106_Octopus_bimaculoides|XP_014772399.1	835	RE|240|315|#a6cee3|RFX DNA-binding domain
+EP00106_Octopus_bimaculoides|XP_014772400.1	835	RE|240|315|#a6cee3|RFX DNA-binding domain
+EP00106_Octopus_bimaculoides|XP_014772404.1	826	RE|231|306|#a6cee3|RFX DNA-binding domain
+EP00106_Octopus_bimaculoides|XP_014772405.1	675	RE|80|155|#a6cee3|RFX DNA-binding domain
+EP00106_Octopus_bimaculoides|XP_014772406.1	674	RE|79|154|#a6cee3|RFX DNA-binding domain
+EP00107_Lottia_gigantea|LotgiP113173	467	RE|10|85|#a6cee3|RFX DNA-binding domain
+EP00107_Lottia_gigantea|LotgiP122187	415	RE|18|93|#a6cee3|RFX DNA-binding domain
+EP00107_Lottia_gigantea|LotgiP138119	207	RE|44|120|#a6cee3|RFX DNA-binding domain
+EP00107_Lottia_gigantea|LotgiP235257	545	RE|17|92|#a6cee3|RFX DNA-binding domain
+EP00107_Lottia_gigantea|LotgiP237297	1561	HV|15|101|#b2df8a|ARID/BRIGHT DNA binding domain
+EP00108_Taenia_solium|TsM_000553100	809	RE|111|187|#a6cee3|RFX DNA-binding domain
+EP00108_Taenia_solium|TsM_000872000	1088	RE|215|290|#a6cee3|RFX DNA-binding domain
+EP00108_Taenia_solium|TsM_000933800	1337	RE|698|778|#a6cee3|RFX DNA-binding domain	HV|26|110|#b2df8a|ARID/BRIGHT DNA binding domain
+EP00108_Taenia_solium|TsM_001143900	1036	RE|100|155|#a6cee3|RFX DNA-binding domain
+EP00109_Schistosoma_mansoni|XP_018649426.1	1109	RE|113|189|#a6cee3|RFX DNA-binding domain
+EP00109_Schistosoma_mansoni|XP_018652906.1	1120	RE|175|250|#a6cee3|RFX DNA-binding domain
+EP00109_Schistosoma_mansoni|XP_018655039.1	1356	RE|774|851|#a6cee3|RFX DNA-binding domain	HV|12|97|#b2df8a|ARID/BRIGHT DNA binding domain
+EP00110_Nematostella_vectensis|XP_001627475.1	410	RE|1|71|#a6cee3|RFX DNA-binding domain
+EP00110_Nematostella_vectensis|XP_001631553.1	396	RE|2|71|#a6cee3|RFX DNA-binding domain
+EP00110_Nematostella_vectensis|XP_001633498.1	219	RE|46|124|#a6cee3|RFX DNA-binding domain
+EP00110_Nematostella_vectensis|XP_001636045.1	492	RE|1|74|#a6cee3|RFX DNA-binding domain
+EP00110_Nematostella_vectensis|XP_001639915.1	406	RE|1|71|#a6cee3|RFX DNA-binding domain
+EP00111_Clytia_hemisphaerica|TCONS_00011502-protein	825	RE|134|212|#a6cee3|RFX DNA-binding domain
+EP00111_Clytia_hemisphaerica|TCONS_00046007-protein	844	RE|316|391|#a6cee3|RFX DNA-binding domain
+EP00111_Clytia_hemisphaerica|TCONS_00049229-protein	642	RE|99|173|#a6cee3|RFX DNA-binding domain
+EP00112_Aurelia_sp_Birch-Aquarium-sp1|Seg1221.12	1869	RE|531|583|#a6cee3|RFX DNA-binding domain
+EP00112_Aurelia_sp_Birch-Aquarium-sp1|Seg1694.8	777	RE|247|322|#a6cee3|RFX DNA-binding domain
+EP00112_Aurelia_sp_Birch-Aquarium-sp1|Seg6034.1	614	RE|31|106|#a6cee3|RFX DNA-binding domain
+EP00112_Aurelia_sp_Birch-Aquarium-sp1|Seg940.11	867	EL|93|142|#33a02c|RFX5 N-terminal domain	RE|148|226|#a6cee3|RFX DNA-binding domain
+EP00113_Trichoplax_adhaerens|XP_002107801.1	741	RE|21|95|#a6cee3|RFX DNA-binding domain
+EP00113_Trichoplax_adhaerens|XP_002107971.1	338	RE|27|97|#a6cee3|RFX DNA-binding domain
+EP00113_Trichoplax_adhaerens|XP_002108410.1	557	RE|33|100|#a6cee3|RFX DNA-binding domain
+EP00113_Trichoplax_adhaerens|XP_002111154.1	1137	HV|19|104|#b2df8a|ARID/BRIGHT DNA binding domain	RE|455|532|#a6cee3|RFX DNA-binding domain
+EP00114_Trichoplax_sp_H2|RDD38181.1	587	RE|12|86|#a6cee3|RFX DNA-binding domain
+EP00114_Trichoplax_sp_H2|RDD39145.1	676	RE|113|180|#a6cee3|RFX DNA-binding domain
+EP00114_Trichoplax_sp_H2|RDD40210.1	659	RE|116|191|#a6cee3|RFX DNA-binding domain
+EP00114_Trichoplax_sp_H2|RDD44705.1	773	RE|21|95|#a6cee3|RFX DNA-binding domain
+EP00114_Trichoplax_sp_H2|RDD45720.1	1169	RE|508|585|#a6cee3|RFX DNA-binding domain	HV|19|104|#b2df8a|ARID/BRIGHT DNA binding domain
+EP00115_Mnemiopsis_leidyi|ML02801a-PA	655	RE|51|126|#a6cee3|RFX DNA-binding domain
+EP00115_Mnemiopsis_leidyi|ML154187a-PA	803	RE|233|296|#a6cee3|RFX DNA-binding domain
+EP00117_Sycon_ciliatum|scpid20333|	914	RE|126|201|#a6cee3|RFX DNA-binding domain
+EP00117_Sycon_ciliatum|scpid29732|	766	RE|217|292|#a6cee3|RFX DNA-binding domain
+EP00117_Sycon_ciliatum|scpid32307|	835	RE|47|122|#a6cee3|RFX DNA-binding domain
+EP00117_Sycon_ciliatum|scpid34331|	896	RE|255|330|#a6cee3|RFX DNA-binding domain
+EP00117_Sycon_ciliatum|scpid50748|	1013	RE|342|418|#a6cee3|RFX DNA-binding domain
+EP00118_Oscarella_pearsei|m.129196	817	RE|317|392|#a6cee3|RFX DNA-binding domain
+EP00118_Oscarella_pearsei|m.153942	602	RE|59|131|#a6cee3|RFX DNA-binding domain
+EP00118_Oscarella_pearsei|m.154057	529	RE|59|131|#a6cee3|RFX DNA-binding domain
+EP00118_Oscarella_pearsei|m.154066	552	RE|59|131|#a6cee3|RFX DNA-binding domain
+EP00118_Oscarella_pearsei|m.33626	594	RE|43|119|#a6cee3|RFX DNA-binding domain
+EP00119_Amphimedon_queenslandica|XP_019850311.1	703	RE|204|279|#a6cee3|RFX DNA-binding domain
+EP00119_Amphimedon_queenslandica|XP_019850312.1	703	RE|204|279|#a6cee3|RFX DNA-binding domain
+EP00119_Amphimedon_queenslandica|XP_019850313.1	617	RE|118|193|#a6cee3|RFX DNA-binding domain
+EP00119_Amphimedon_queenslandica|XP_019850482.1	599	RE|31|106|#a6cee3|RFX DNA-binding domain
+EP00119_Amphimedon_queenslandica|XP_019850484.1	943	RE|43|118|#a6cee3|RFX DNA-binding domain
+EP00120_Capsaspora_owczarzaki|XP_004365227.2	1218	RE|288|363|#a6cee3|RFX DNA-binding domain
+EP00121_Abeoforma_whisleri|Awhi_evm1s7703	438	RE|104|178|#a6cee3|RFX DNA-binding domain
+EP00123_Amoebidium_parasiticum|comp1374_c0_seq1|m.390	186	RE|2|41|#a6cee3|RFX DNA-binding domain
+EP00123_Amoebidium_parasiticum|comp19712_c0_seq1|m.23461	549	RE|58|133|#a6cee3|RFX DNA-binding domain
+EP00123_Amoebidium_parasiticum|comp55832_c0_seq1|m.47785	384	RE|121|193|#a6cee3|RFX DNA-binding domain
+EP00124_Ichthyophonus_hoferi|Ihof_evm1s565	584	RE|58|132|#a6cee3|RFX DNA-binding domain
+EP00124_Ichthyophonus_hoferi|Ihof_evm1s701	680	RE|143|217|#a6cee3|RFX DNA-binding domain
+EP00125_Sphaeroforma_arctica|XP_014152373.1	1714	RE|685|760|#a6cee3|RFX DNA-binding domain
+EP00125_Sphaeroforma_arctica|XP_014152821.1	1152	RE|981|1055|#a6cee3|RFX DNA-binding domain
+EP00125_Sphaeroforma_arctica|XP_014154902.1	615	RE|158|232|#a6cee3|RFX DNA-binding domain
+EP00125_Sphaeroforma_arctica|XP_014155160.1	783	RE|636|712|#a6cee3|RFX DNA-binding domain
+EP00126_Sphaerothecum_destruens|Sdes_comp21277_c0_seq1m19918	217	RE|87|162|#a6cee3|RFX DNA-binding domain
+EP00126_Sphaerothecum_destruens|Sdes_comp21467_c0_seq1m20097	408	RE|140|213|#a6cee3|RFX DNA-binding domain
+EP00127_Corallochytrium_limacisporum|Clim_evm39s172	1213	RE|173|246|#a6cee3|RFX DNA-binding domain
+EP00127_Corallochytrium_limacisporum|Clim_evm49s158	582	RE|92|168|#a6cee3|RFX DNA-binding domain
+EP00128_Syssomonas_multiformis|Colp12_sorted_trinity150504_noHs@24382	172	RE|113|172|#a6cee3|RFX DNA-binding domain
+EP00129_Allomyces_macrogynus|KNE65357.1	751	RE|162|237|#a6cee3|RFX DNA-binding domain
+EP00129_Allomyces_macrogynus|KNE66464.1	751	RE|163|238|#a6cee3|RFX DNA-binding domain
+EP00131_Spizellomyces_punctatus|XP_016612254.1	557	RE|113|187|#a6cee3|RFX DNA-binding domain
+EP00131_Spizellomyces_punctatus|XP_016612255.1	558	RE|113|187|#a6cee3|RFX DNA-binding domain
+EP00133_Fusarium_graminearum|XP_011327190.1	754	RE|148|224|#a6cee3|RFX DNA-binding domain
+EP00134_Neurospora_crassa|XP_961016.3	796	RE|194|270|#a6cee3|RFX DNA-binding domain
+EP00135_Aspergillus_nidulans|XP_659900.1	843	RE|221|296|#a6cee3|RFX DNA-binding domain
+EP00136_Aspergillus_niger|XP_001398401.1	885	RE|242|317|#a6cee3|RFX DNA-binding domain
+EP00137_Aspergillus_oryzae|EIT72636.1	888	RE|240|315|#a6cee3|RFX DNA-binding domain
+EP00138_Coccidioides_posadasii|XP_003069378.1	834	RE|237|312|#a6cee3|RFX DNA-binding domain
+EP00139_Candida_albicans|XP_713492.2	851	RE|280|355|#a6cee3|RFX DNA-binding domain
+EP00139_Candida_albicans|XP_722662.2	1111	RE|464|537|#a6cee3|RFX DNA-binding domain
+EP00140_Debaryomyces_hansenii|XP_002770338.1	953	RE|405|478|#a6cee3|RFX DNA-binding domain
+EP00140_Debaryomyces_hansenii|XP_462015.2	809	RE|256|332|#a6cee3|RFX DNA-binding domain
+EP00141_Yarrowia_lipolytica|XP_503908.1	712	RE|169|245|#a6cee3|RFX DNA-binding domain
+EP00142_Kluyveromyces_lactis|XP_453276.1	819	RE|311|386|#a6cee3|RFX DNA-binding domain
+EP00143_Candida_glabrata|XP_445183.1	627	RE|152|229|#a6cee3|RFX DNA-binding domain
+EP00143_Candida_glabrata|XP_446957.1	1021	RE|366|442|#a6cee3|RFX DNA-binding domain
+EP00144_Saccharomyces_cerevisiae|NP_013277.1	811	RE|282|358|#a6cee3|RFX DNA-binding domain
+EP00145_Schizosaccharomyces_pombe|NP_594086.1	766	RE|98|175|#a6cee3|RFX DNA-binding domain
+EP00146_Coprinopsis_cinerea|XP_001837175.2	853	RE|191|266|#a6cee3|RFX DNA-binding domain
+EP00147_Laccaria_bicolor|XP_001877125.1	856	RE|184|259|#a6cee3|RFX DNA-binding domain
+EP00150_Ustilago_maydis|XP_011388307.1	672	RE|301|377|#a6cee3|RFX DNA-binding domain
+EP00153_Phycomyces_blakesleeanus|XP_018291419.1	733	RE|101|174|#a6cee3|RFX DNA-binding domain
+EP00157_Rozella_allomycis|EPZ36870.1	669	RE|98|173|#a6cee3|RFX DNA-binding domain
+EP00158_Paraphelidium_tribonemae|Partr_v1_DN25205_c0_g1_i1_m16664	561	RE|68|144|#a6cee3|RFX DNA-binding domain
+EP00158_Paraphelidium_tribonemae|Partr_v1_DN25205_c0_g1_i2_m16667	147	RE|68|137|#a6cee3|RFX DNA-binding domain
+EP00158_Paraphelidium_tribonemae|Partr_v1_DN26796_c1_g1_i1_m8600	502	RE|87|162|#a6cee3|RFX DNA-binding domain
+EP00158_Paraphelidium_tribonemae|Partr_v1_DN26796_c1_g1_i2_m8604	387	RE|1|47|#a6cee3|RFX DNA-binding domain
+EP00158_Paraphelidium_tribonemae|Partr_v1_DN27755_c0_g1_i2_m67650	739	RE|115|188|#a6cee3|RFX DNA-binding domain
+EP00159_Fonticula_alba|XP_009493891.1	2671	RE|381|453|#a6cee3|RFX DNA-binding domain
+EP00160_Parvularia_atlantis|Unigene13845_Nuclearia_a|m.41840	158	RE|21|94|#a6cee3|RFX DNA-binding domain
+EP00160_Parvularia_atlantis|Unigene9049_Nuclearia_a|m.27682	215	RE|58|133|#a6cee3|RFX DNA-binding domain
+EP00179_Madagascaria_erythrocladioides|CAMPEP_0198325338	185	RE|77|152|#a6cee3|RFX DNA-binding domain
+EP00276_Gloeochaete_wittrockiana|CAMPEP_0184372680	1120	RE|77|151|#a6cee3|RFX DNA-binding domain
+EP00276_Gloeochaete_wittrockiana|CAMPEP_0184672222	1066	RE|52|126|#a6cee3|RFX DNA-binding domain
+EP00389_Voromonas_pontica|GDKH01013909.1.p2	120	GP|37|102|#a6cee3|Poxvirus D5 protein-like
+EP00730_Choanoeca_flexa|TRINITY_DN10628_c0_g1_i1.p1	412	RE|140|214|#a6cee3|RFX DNA-binding domain
+EP00730_Choanoeca_flexa|TRINITY_DN10628_c0_g1_i5.p1	710	RE|140|214|#a6cee3|RFX DNA-binding domain
+EP00730_Choanoeca_flexa|TRINITY_DN12510_c2_g1_i1.p1	877	RE|177|252|#a6cee3|RFX DNA-binding domain
+EP00730_Choanoeca_flexa|TRINITY_DN12572_c0_g1_i2.p1	574	RE|358|414|#a6cee3|RFX DNA-binding domain
+EP00730_Choanoeca_flexa|TRINITY_DN8249_c0_g1_i2.p1	595	RE|1|57|#a6cee3|RFX DNA-binding domain
+EP00731_Ephydatia_muelleri|Em0011g976a	672	RE|174|249|#a6cee3|RFX DNA-binding domain
+EP00731_Ephydatia_muelleri|Em0017g508a	862	RE|2|71|#a6cee3|RFX DNA-binding domain
+EP00731_Ephydatia_muelleri|Em0017g596a	753	RE|68|143|#a6cee3|RFX DNA-binding domain
+EP00731_Ephydatia_muelleri|Em0021g217a	843	HV|5|72|#b2df8a|ARID/BRIGHT DNA binding domain	RE|447|523|#a6cee3|RFX DNA-binding domain
