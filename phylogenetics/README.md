@@ -43,7 +43,7 @@ The files we'll be using are in the `EukProt/iTOL` directory.
 
 ### Software
 
-Most of the phylogenetics software we will be using is already installed, either because you created your XSEDE Jetstream instance using the 'Genomics Toolkit', or because you used `conda` to install them during the previous session. For `conda`, you'll just need to activate the environment into which the programs were installed:
+Most of the phylogenetics software we will be using is already installed, because you created your XSEDE Jetstream instance using the 'Genomics Toolkit', and because you used `conda` to install them during the previous session. For `conda`, you'll just need to activate the environment into which the programs were installed:
 
 ```
 conda activate bootcampr
@@ -118,7 +118,7 @@ wget http://pfam.xfam.org/family/PF08423/hmm
 mv hmm Rad51.hmm
 ```
 
-Next we will search the EukProt database with the Rad51 Pfam domain using `hmmsearch`. In order for convenience as part of this tutorial, we wrote a wrapper script to search each individual protein sequence file (there is one file per species) and combine the results. We will use that script here (it should finish the search in about 5 minutes):
+Next we will search the EukProt database with the Rad51 Pfam domain using `hmmsearch`. For convenience as part of this tutorial, we wrote a wrapper script to search each individual protein sequence file (there is one file per species) and combine the results. We will use that script here (it should finish the search in about 5 minutes):
 
 ```
 ~/2021-Bioinformatics-Tutorial-Materials/phylogenetics/wrap_hmmsearch.pl -hmm Rad51.hmm -output Rad51.fasta -target ~/data/proteins
